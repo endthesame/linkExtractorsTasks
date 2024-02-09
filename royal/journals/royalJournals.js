@@ -20,10 +20,10 @@ async function crawlPages(startUrl, page) {
     let currentPage = 1;
 
     while (true) {
-        await page.waitForNavigation({
-            waitUntil: 'networkidle0', 
-            timeout: 50000
-          });
+        // await page.waitForNavigation({
+        //     waitUntil: 'networkidle0', 
+        //     timeout: 50000
+        //   });
         const contentLinks = await extractLinks(page);
         
         // if (contentLinks.length === 0) {
@@ -63,7 +63,7 @@ async function crawlPages(startUrl, page) {
         // }
 
         // // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForTimeout(2000);
+        await page.waitForTimeout(4000);
 
         currentPage++;
     }
@@ -73,7 +73,7 @@ async function crawlPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: 'new' });
+    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1200, height: 800 });
 
