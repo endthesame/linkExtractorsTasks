@@ -15,7 +15,7 @@ async function crawlPages(startUrl) {
     const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1280, height: 800 });
-    await page.goto(startUrl, { waitUntil: 'networkidle0', timeout: 50000 });
+    await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 50000 });
 
     await page.waitForTimeout(6000);
 
@@ -29,20 +29,21 @@ async function crawlPages(startUrl) {
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.niHeader_about-prev');
-        if (!nextPageButton || (await nextPageButton.evaluate(button => button.getAttribute('aria-disabled') === 'true'))) {
+        if (!nextPageButton || (await nextPageButton.evaluate(button => button.tagName.toLowerCase() != 'a'))) {
             break; // кнопки нет, выход из цикла
         }
 
         // Кликаем на кнопку paging__btn--next
         try {
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.niHeader_about-prev', { waitUntil: 'networkidle0', timeout: 50000 });
+            await page.click('.niHeader_about-prev', { waitUntil: 'networkidle2', timeout: 50000 });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
             break; // если не удалось кликнуть, выход из цикла
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
+        await page.waitForSelector(".niHeader_about-meta");
         await page.waitForTimeout(8000);
 
         currentPage++;
