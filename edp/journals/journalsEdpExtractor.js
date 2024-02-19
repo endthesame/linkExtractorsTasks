@@ -25,6 +25,7 @@ async function crawlPages(startUrl) {
     let currentPage = 1;
 
     while (true) {
+        await page.waitForSelector("#toc");
         const contentLinks = await extractLinks(page);
 
         fs.appendFileSync('found_links_edp_journals.txt', contentLinks.join('\n') + '\n');
