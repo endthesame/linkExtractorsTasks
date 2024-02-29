@@ -1,10 +1,4 @@
-https://iopscience.iop.org/journal/2053-1583
-https://iopscience.iop.org/journal/2043-6262
-https://iopscience.iop.org/journal/1882-0786
-https://iopscience.iop.org/journal/1538-3881
-https://iopscience.iop.org/journal/0004-637X
-https://iopscience.iop.org/journal/2041-8205
-https://iopscience.iop.org/journal/0067-0049
+https://iopscience.iop.org/issue/0067-0049/131/1
 https://iopscience.iop.org/journal/1758-5090
 https://iopscience.iop.org/journal/1748-3190
 https://iopscience.iop.org/journal/1748-605X
