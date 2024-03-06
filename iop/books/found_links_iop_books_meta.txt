@@ -1,0 +1,914 @@
+Studies in Theoretical Physics, Volume 2;;Advanced mathematical methods;;978-0-7503-4859-1;;978-0-7503-4861-4
+Biomaterials;;Innovation for world healthcare;;978-0-7503-5185-0;;978-0-7503-5187-4
+Resonant Network Antennas for Radio-Frequency Plasma Sources;;Theory, technology and applications;;978-0-7503-5294-9;;978-0-7503-5296-3
+Electrical Impedance Tomography for Tactile Imaging;;A primer for experimentalists;;978-0-7503-5400-4;;978-0-7503-5402-8
+Data Analytics for Intelligent Systems;;Techniques and solutions;;978-0-7503-5415-8;;978-0-7503-5417-2
+Rare-earth-free Ferrimagnetic Mn4N Spintronics;;;;978-0-7503-5475-2;;978-0-7503-5477-6
+Advances in Spectroscopic Analysis of Food and Drink;;;;978-0-7503-5571-1;;978-0-7503-5573-5
+Engineered 2D Materials for Electrocatalysis Applications;;;;978-0-7503-5717-3;;978-0-7503-5719-7
+Modern Classical Optical System Design;;Fundamentals, techniques, tips, and tricks;;978-0-7503-6057-9;;978-0-7503-6059-3
+An Interactive Guide to Quantum Optics;;;;978-0-7503-2626-1;;978-0-7503-2628-5
+Singularities in Physics and Engineering (Second Edition);;;;978-0-7503-4980-2;;978-0-7503-4982-6
+Advances in Drug Delivery Systems for Healthcare;;From concept to clinic;;978-0-7503-5611-4;;978-0-7503-5613-8
+Impurity Transport in Magnetically Confined Plasmas;;;;978-0-7503-1449-7;;978-0-7503-1451-0
+Photo Acoustic and Optical Coherence Tomography Imaging, Volume 1;;Diabetic retinopathy;;978-0-7503-2050-4;;978-0-7503-2052-8
+Optical Forces on Atoms;;;;978-0-7503-2306-2;;978-0-7503-2308-6
+Multimodality Imaging, Volume 2;;Heart, lungs and peripheral organs;;978-0-7503-2350-5;;978-0-7503-2352-9
+Laser–Plasma Accelerators and Radiation Sources;;;;978-0-7503-2701-5;;978-0-7503-2703-9
+Big Science in the 21st Century;;Economic and societal impacts;;978-0-7503-3629-1;;978-0-7503-3631-4
+Surface Science and Synchrotron Radiation;;;;978-0-7503-3845-5;;978-0-7503-3847-9
+3D Printing in Radiation Therapy;;;;978-0-7503-3905-6;;978-0-7503-3907-0
+Machine Learning, Medical AI and Robotics;;Translating theory into the clinic;;978-0-7503-4635-1;;978-0-7503-4637-5
+Nanoelectronics;;Physics, technology and applications;;978-0-7503-4809-6;;978-0-7503-4811-9
+Aptasensors for Point-of-Care Diagnostics of Cancer;;From lab to clinics;;978-0-7503-5010-5;;978-0-7503-5012-9
+Quantum Metrology with Photoelectrons, Volume 3;;Analysis methodologies;;978-0-7503-5020-4;;978-0-7503-5022-8
+Quality Assurance for Scientists and Engineers;;A practical guide;;978-0-7503-5105-8;;978-0-7503-5107-2
+Biometric Presentation Attack Detection;;Towards securing biometric authentication systems;;978-0-7503-5200-0;;978-0-7503-5202-4
+Crystalline Solid State Physics;;An interactive guide;;978-0-7503-5215-4;;978-0-7503-5217-8
+An Introduction to District Heating and Cooling;;Low carbon energy for buildings;;978-0-7503-5284-0;;978-0-7503-5286-4
+Advances in Flexible and Printed Electronics;;Materials, fabrication, and applications;;978-0-7503-5490-5;;978-0-7503-5492-9
+Nuclear Data;;A collective motion view;;978-0-7503-5641-1;;978-0-7503-5643-5
+Resonant Tunnelling Diode Photonics Devices and Applications (Second Edition);;;;978-0-7503-5712-8;;978-0-7503-5714-2
+Advanced Metamaterials for Engineers;;;;978-0-7503-5752-4;;978-0-7503-5754-8
+The Mössbauer Effect (Second Edition);;;;978-0-7503-6037-1;;978-0-7503-6039-5
+Fourier Transform and Its Applications Using Microsoft EXCEL® (Second Edition);;;;978-0-7503-6042-5;;978-0-7503-6044-9
+Optimisation of Renewable Energy Powered Desalination Systems;;A sustainable techno-economic and environmental consideration;;978-0-7503-6152-1;;978-0-7503-6154-5
+Fundamentals of Modern Physics;;Unveiling the mysteries;;978-0-7503-6237-5;;978-0-7503-6239-9
+Physics of Cancer, Volume 5 (Second Edition);;Magnetics- and laser-based biophysical techniques to combat cancer;;978-0-7503-6272-6;;978-0-7503-6274-0
+Blockchain-based Peer-to-Peer Transactions in Energy Systems;;;;978-0-7503-6293-1;;978-0-7503-6295-5
+Non-equilibrium Hydromagnetic Dynamos;;;;978-0-7503-6358-7;;978-0-7503-6362-4
+Physics of Cancer, Volume 4 (Second Edition);;Mechanical characterization of cells;;978-0-7503-4001-4;;978-0-7503-4003-8
+Machine Learning for Physicists;;A hands-on approach;;978-0-7503-4955-0;;978-0-7503-4957-4
+Neuromorphic Circuits;;A constructive approach;;978-0-7503-5095-2;;978-0-7503-5097-6
+Organ Printing (Second Edition);;;;978-0-7503-5120-1;;978-0-7503-5122-5
+Quantum Transport in Semiconductor Devices;;Simulation using particles;;978-0-7503-5234-5;;978-0-7503-5237-6
+Phytochemicals as an Epigenetic Modifier in Cancer Prevention;;;;978-0-7503-5250-5;;978-0-7503-5252-9
+Innovative Quantum Computing;;;;978-0-7503-5279-6;;978-0-7503-5281-9
+Graphene-Based Sensors;;;;978-0-7503-5576-6;;978-0-7503-5578-0
+Materials Technology for the Energy and Environmental Nexus, Volume 2;;;;978-0-7503-5727-2;;978-0-7503-5729-6
+An Introduction to the Physics of Nuclei and Particles (Second Edition);;;;978-0-7503-6092-0;;978-0-7503-6094-4
+Trends in Maritime Autonomous Surface Ships (MASS) Technology;;;;978-0-7503-3149-4;;978-0-7503-3151-7
+Barocaloric Effects in the Solid State;;Materials and methods;;978-0-7503-4688-7;;978-0-7503-4690-0
+Small Particle Ring Accelerators and Paul Traps;;Case studies and prospects;;978-0-7503-4889-8;;978-0-7503-4891-1
+Ultra-Sensitive PIN and Avalanche Photodiode Receivers;;;;978-0-7503-5435-6;;978-0-7503-5437-0
+A Concise Introduction to Quantum Mechanics (Second Edition);;;;978-0-7503-5661-9;;978-0-7503-5663-3
+Atomic and Molecular Physics (Second Edition);;A primer;;978-0-7503-5732-6;;978-0-7503-5734-0
+Transmission, Processing, and All-Optical Routing for Ultra-High Capacity Data Center Networking (Second Edition);;;;978-0-7503-5847-7;;978-0-7503-5849-1
+Electromechanical Machinery Theory and Performance, Second Edition;;Including photovoltaic energy conversion;;978-0-7503-6082-1;;978-0-7503-6084-5
+Accreting White Dwarfs;;From exoplanetary probes to classical novae and Type 1a supernovae;;978-0-7503-2040-5;;978-0-7503-2042-9
+Lithium Across the Universe;;;;978-0-7503-3621-5;;978-0-7503-3623-9
+Strongly Interacting Quantum Systems, Volume 1;;Few-body physics;;978-0-7503-3085-5;;978-0-7503-3087-9
+Sustainable Nanomaterials for Energy Applications;;;;978-0-7503-3529-4;;978-0-7503-3531-7
+Electrochemical Capacitors;;;;978-0-7503-5040-2;;978-0-7503-5042-6
+Oral Diagnostics Tools and Techniques;;A physicist's approach;;978-0-7503-5314-4;;978-0-7503-5316-8
+Reconfigurable Antennas;;Trends and applications;;978-0-7503-5455-4;;978-0-7503-5457-8
+Cold Atmospheric Plasma-based Cancer Therapy (Second Edition);;;;978-0-7503-5535-3;;978-0-7503-5537-7
+Adsorption Applications for Environmental Sustainability;;;;978-0-7503-5596-4;;978-0-7503-5598-8
+Materials Technology for the Energy and Environmental Nexus, Volume 1;;;;978-0-7503-5722-7;;978-0-7503-5724-1
+Blockchain with Artificial Intelligence for Healthcare;;A synergistic approach;;978-0-7503-5837-8;;978-0-7503-5839-2
+Introduction to General Relativity and Cosmology (Second Edition);;;;978-0-7503-3761-8;;978-0-7503-3763-2
+Inside the Stars;;;;978-0-7503-5792-0;;978-0-7503-5794-4
+Nuclear Dynamics in Strong Laser Fields;;;;978-0-7503-3197-5;;978-0-7503-3199-9
+Optical Sensors;;An introduction with lab demonstrations;;978-0-7503-4874-4;;978-0-7503-4876-8
+Molecularly Imprinted Polymers for Environmental Monitoring;;Fundamentals and applications;;978-0-7503-4960-4;;978-0-7503-4962-8
+Computing Research Survival Manual;;A practical handbook for beginners;;978-0-7503-5015-0;;978-0-7503-5017-4
+Affective Computing in Healthcare;;Applications based on biosignals and artificial intelligence;;978-0-7503-5180-5;;978-0-7503-5182-9
+Effective Teaching in Large STEM Classes;;;;978-0-7503-5228-4;;978-0-7503-5231-4
+Functionally Graded Structures;;Modelling and computation of static and dynamical problems;;978-0-7503-5299-4;;978-0-7503-5301-4
+Foundations of Chemical Kinetics;;A hands-on approach;;978-0-7503-5319-9;;978-0-7503-5321-2
+Advanced Signal Processing for Industry 4.0, Volume 2;;Security issues, management and future opportunities;;978-0-7503-5656-5;;978-0-7503-5658-9
+Electrostatics;;Formalism of the electrostatic field in vacuum and matter;;978-0-7503-5857-6;;978-0-7503-5859-0
+Analytical Techniques for Biomedical Nanotechnology;;;;978-0-7503-3377-1;;978-0-7503-3379-5
+ToF LiDAR for Autonomous Driving;;;;978-0-7503-3721-2;;978-0-7503-3723-6
+Extreme-Temperature and Harsh-Environment Electronics (Second Edition);;Physics, technology and applications;;978-0-7503-5070-9;;978-0-7503-5072-3
+Nonlinear Phenomena in the Radiation from Plasmas;;;;978-0-7503-5550-6;;978-0-7503-5552-0
+AI and Ethics;;A computational perspective;;978-0-7503-6112-5;;978-0-7503-6116-3
+Recent Advances in Graphene and Graphene-Based Technologies;;;;978-0-7503-3997-1;;978-0-7503-3999-5
+Spatially Fractionated, Microbeam and FLASH Radiation Therapy;;A physics and multi-disciplinary approach;;978-0-7503-4044-1;;978-0-7503-4046-5
+Analytical Evaluation of Uncertainty Propagation for Probabilistic Design Optimisation;;;;978-0-7503-4929-1;;978-0-7503-4931-4
+Hypersonic Shock Wave Turbulent Boundary Layers;;Direct Numerical Simulation, Large Eddy Simulation and Experiment;;978-0-7503-5000-6;;978-0-7503-5002-0
+Nanocarbon Allotropes Beyond Graphene;;Synthesis, properties and applications;;978-0-7503-5175-1;;978-0-7503-5177-5
+Advanced Signal Processing for Industry 4.0, Volume 1;;Evolution, communication protocols, and applications in manufacturing systems;;978-0-7503-5245-1;;978-0-7503-5247-5
+Internet of Things in Biomedical Sciences;;Challenges and applications;;978-0-7503-5309-0;;978-0-7503-5311-3
+Tearing Mode Dynamics in Tokamak Plasmas;;;;978-0-7503-5365-6;;978-0-7503-5367-0
+Quantum Computing (Second Edition);;A pathway to quantum logic design;;978-0-7503-5681-7;;978-0-7503-5683-1
+Applied Geophysics for Karst and Sinkhole Investigation;;The Dead Sea and other regions;;978-0-7503-3633-8;;978-0-7503-3635-2
+Spectroscopic and Microscopy Techniques for Archaeological and Cultural Heritage Research (Second Edition);;;;978-0-7503-4844-7;;978-0-7503-4846-1
+Fear of Physics;;And how to help students overcome it;;978-0-7503-4864-5;;978-0-7503-4866-9
+Topology in Collective Magnetization Dynamics;;;;978-0-7503-5080-8;;978-0-7503-5082-2
+Lasers and Their Application in the Cooling and Trapping of Atoms (Second Edition);;;;978-0-7503-5480-6;;978-0-7503-5482-0
+Analytical Lens Design (Second Edition);;;;978-0-7503-5772-2;;978-0-7503-5774-6
+Paper-Based Diagnostic Devices for Infectious Diseases;;;;978-0-7503-5817-0;;978-0-7503-5820-0
+SERS-Based Advanced Diagnostics for Infectious Diseases;;;;978-0-7503-5917-7;;978-0-7503-5920-7
+Bioenergy for Power Generation, Transportation and Climate Change Mitigation;;;;978-0-7503-3553-9;;978-0-7503-3555-3
+Model-Based Approaches in Biomedical Engineering;;;;978-0-7503-4014-4;;978-0-7503-4016-8
+Nanoengineered Materials for Solid Oxide Cells;;;;978-0-7503-4062-5;;978-0-7503-4064-9
+Human-Assisted Intelligent Computing;;Modeling, simulations and applications;;978-0-7503-4799-0;;978-0-7503-4801-0
+An Introduction to the Physics of Nuclear Medicine (Second Edition);;;;978-0-7503-5195-9;;978-0-7503-5197-3
+Cognitive Sensors, Volume 2;;Applications in smart healthcare;;978-0-7503-5344-1;;978-0-7503-5346-5
+Entropy Beyond the Second Law (Second Edition);;Thermodynamics and statistical mechanics for equilibrium, non-equilibrium, classical, and quantum systems;;978-0-7503-5405-9;;978-0-7503-5407-3
+Metamaterials and Metasurfaces;;Basics and trends;;978-0-7503-5530-8;;978-0-7503-5532-2
+Keplerian Ellipses (Second Edition);;A student guide to the physics of the gravitational two-body problem;;978-0-7503-5606-0;;978-0-7503-5608-4
+Calcium Signals;;From single molecules to physiology;;978-0-7503-2007-8;;978-0-7503-2009-2
+Philosophy of Physics;;A new introduction;;978-0-7503-2634-6;;978-0-7503-2636-0
+Semidefinite Programming in Quantum Information Science;;;;978-0-7503-3341-2;;978-0-7503-3343-6
+Multifunctional Bio-Based Lubricants;;Synthesis, properties and applications;;978-0-7503-3433-4;;978-0-7503-3435-8
+Photocatalytic Dye Degradation Using Green Polymer-Based Nanostructures;;Principles and applications in wastewater treatment;;978-0-7503-5515-5;;978-0-7503-5517-9
+MRI: Connecting the Dots;;A start to concepts;;978-0-7503-1285-1;;978-0-7503-1284-4
+Principles and Practice of Image-Guided Abdominal Radiation Therapy;;;;978-0-7503-2466-3;;978-0-7503-2468-7
+Diffractive Lens Design;;Theory, design, methodologies and applications;;978-0-7503-3293-4;;978-0-7503-3295-8
+Transportation Technologies for a Sustainable Future;;Renewable energy options for road, rail, marine and air transportation;;978-0-7503-5304-5;;978-0-7503-5306-9
+Electronic Engineering for Neuromedicine;;;;978-0-7503-3425-9;;978-0-7503-3427-3
+High-Temperature Electrolysis;;From fundamentals to applications;;978-0-7503-3949-0;;978-0-7503-3951-3
+Principles of Biophotonics, Volume 3;;Field propagation in linear, homogeneous, dispersionless, isotropic media;;978-0-7503-1645-3;;978-0-7503-1646-0
+Photo Acoustic and Optical Coherence Tomography Imaging, Volume 2;;Fundus imaging for the retina;;978-0-7503-2054-2;;978-0-7503-2056-6
+Multimodality Imaging, Volume 1;;Deep learning applications;;978-0-7503-2242-3;;978-0-7503-2244-7
+Waves in Nonlinear Layered Metamaterials, Gyrotropic and Plasma Media;;;;978-0-7503-2334-5;;978-0-7503-2336-9
+Breast Image Reconstruction and Cancer Detection Using Microwave Imaging;;;;978-0-7503-2590-5;;978-0-7503-2592-9
+Cryogenics;;Fundamentals, foundations and applications;;978-0-7503-2755-8;;978-0-7503-2757-2
+Full Field Optical Metrology and Applications;;;;978-0-7503-3025-1;;978-0-7503-3027-5
+Condensed Matter Physics: A Modern Perspective;;;;978-0-7503-3029-9;;978-0-7503-3031-2
+Chemical Vapour Deposition;;Growth processes on an atomic level;;978-0-7503-3105-0;;978-0-7503-3107-4
+Measurements and Performance Characteristics of Diagnostic X-ray Tubes and Generators (Third Edition);;IPEM report 32 part I;;978-0-7503-3217-0;;978-0-7503-3219-4
+Advances in Ophthalmic Optics Technology;;;;978-0-7503-3261-3;;978-0-7503-3263-7
+Artificial Intelligence in Radiation Therapy;;;;978-0-7503-3337-5;;978-0-7503-3339-9
+Algorithms for Noise Reduction in Signals;;Theory and practical examples based on statistical and convolutional analysis;;978-0-7503-3589-8;;978-0-7503-3591-1
+Introduction to the Physics of the Cryosphere (Second Edition);;;;978-0-7503-3645-1;;978-0-7503-3647-5
+Photography (Second Edition);;Physics and art in focus;;978-0-7503-3701-4;;978-0-7503-3703-8
+Exocytosis: From Molecules to Cells;;;;978-0-7503-3769-4;;978-0-7503-3771-7
+Magnetically Confined Fusion Plasma Physics, Volume 3;;Kinetic theory;;978-0-7503-3777-9;;978-0-7503-3779-3
+Artificial Intelligence and Spectroscopic Techniques for Gemology Applications;;;;978-0-7503-3925-4;;978-0-7503-3927-8
+Energetics Science and Technology;;An integrated approach;;978-0-7503-3941-4;;978-0-7503-3943-8
+Ferroelectrics;;Advances in fundamental studies and emerging applications;;978-0-7503-3973-5;;978-0-7503-3975-9
+Quantitative Phase Microscopy and Tomography;;Techniques using partially spatially coherent monochromatic light;;978-0-7503-3985-8;;978-0-7503-3987-2
+Ionization and Ion Transport (Second Edition);;A primer for the study of gas discharges and plasmas;;978-0-7503-3989-6;;978-0-7503-3991-9
+Frontiers of Artificial Intelligence in Medical Imaging;;;;978-0-7503-4010-6;;978-0-7503-4012-0
+Creative Thinking in University Physics Education;;;;978-0-7503-4026-7;;978-0-7503-4028-1
+Solving Climate Change;;A guide for learners and leaders;;978-0-7503-4030-4;;978-0-7503-4032-8
+Neutron and X-ray Reflectometry;;Emerging phenomena at heterostructure interfaces;;978-0-7503-4693-1;;978-0-7503-4695-5
+Hadronic Jets (Second Edition);;An introduction;;978-0-7503-4735-8;;978-0-7503-4737-2
+Microbial Fuel Cells;;Emerging trends in electrochemical applications;;978-0-7503-4789-1;;978-0-7503-4791-4
+Analysis of Turbulence in Fusion Plasmas;;;;978-0-7503-4854-6;;978-0-7503-4856-0
+Lithium-ion and Lithium–Sulfur Batteries;;Fundamentals to performance;;978-0-7503-4879-9;;978-0-7503-4881-2
+Functional Carbon Materials;;;;978-0-7503-4970-3;;978-0-7503-4972-7
+Polynomial Paradigms;;Trends and applications in science and engineering;;978-0-7503-5065-5;;978-0-7503-5067-9
+Nanostructured Materials for Sustainable Energy and Environmental Remediation;;;;978-0-7503-5140-9;;978-0-7503-5143-0
+Light Scattering and Absorption by Particles;;The Q-space approach;;978-0-7503-5155-3;;978-0-7503-5157-7
+Cognitive Sensors, Volume 1;;Intelligent sensing, sensor data analysis and applications;;978-0-7503-5324-3;;978-0-7503-5326-7
+Ion Traps;;A gentle introduction;;978-0-7503-5470-7;;978-0-7503-5472-1
+Laser Safety (Second Edition);;Practical knowledge and solutions;;978-0-7503-5500-1;;978-0-7503-5504-9
+New Windows on the Universe;;Advances in multimessenger astronomy;;978-0-7503-3729-8;;978-0-7503-3731-1
+Statistical Physics of Condensed Matter Systems;;A primer;;978-0-7503-2266-9;;978-0-7503-2269-0
+The Structure of Amorphous Materials using Molecular Dynamics;;;;978-0-7503-2434-2;;978-0-7503-2436-6
+A Multidisciplinary Approach to Quantum Field Theory, Volume 2;;Advanced topics;;978-0-7503-3229-3;;978-0-7503-3231-6
+CMOS Image Sensors;;;;978-0-7503-3233-0;;978-0-7503-3235-4
+Plasma Modeling (Second Edition);;Methods and applications;;978-0-7503-3557-7;;978-0-7503-3559-1
+Advances in Image-Guided Cancer Nanomedicine;;;;978-0-7503-3673-4;;978-0-7503-3675-8
+Forecasting with Maximum Entropy;;The interface between physics, biology, economics and information theory;;978-0-7503-3929-2;;978-0-7503-3931-5
+A Practical Introduction to Beam Physics and Particle Accelerators (Third Edition);;;;978-0-7503-4037-3;;978-0-7503-4039-7
+Molecular Response and Genetic Engineering for Stress in Plants, Volume 1;;Abiotic stress;;978-0-7503-4919-2;;978-0-7503-4921-5
+Molecular Response and Genetic Engineering for Stress in Plants, Volume 2;;Biotic stress;;978-0-7503-4924-6;;978-0-7503-4926-0
+Electrostatic Phenomena on Planetary Surfaces (Second Edition);;;;978-0-7503-3889-9;;978-0-7503-3891-2
+Great Mysteries in Astrophysics;;A guide to what we don't know;;978-0-7503-4049-6;;978-0-7503-4051-9
+A Multidisciplinary Approach to Quantum Field Theory, Volume 1;;An introduction;;978-0-7503-3225-5;;978-0-7503-3227-9
+Artificial Intelligence in Cancer Diagnosis and Prognosis, Volume 1;;Lung and kidney cancer;;978-0-7503-3593-5;;978-0-7503-3595-9
+Artificial Intelligence in Cancer Diagnosis and Prognosis, Volume 2;;Breast and bladder cancer;;978-0-7503-3597-3;;978-0-7503-3599-7
+Artificial Intelligence in Cancer Diagnosis and Prognosis, Volume 3;;Brain and prostate cancer;;978-0-7503-3601-7;;978-0-7503-3603-1
+Challenges in Risk Analysis for Science and Engineering;;Development of a common language;;978-0-7503-3641-3;;978-0-7503-3643-7
+Applied Problems in the Theory of Electromagnetic Wave Scattering;;;;978-0-7503-3977-3;;978-0-7503-3979-7
+Deep Learning Technologies for Social Impact;;;;978-0-7503-4022-9;;978-0-7503-4024-3
+Ultrasonics;;Physics and applications;;978-0-7503-4934-5;;978-0-7503-4936-9
+Creativity for Scientists and Engineers;;A practical guide;;978-0-7503-4965-9;;978-0-7503-4967-3
+Accreting Binaries;;Nature, formation, and evolution;;978-0-7503-3885-1;;978-0-7503-3887-5
+Dust in the Galactic Environment (Third Edition);;;;978-0-7503-3273-6;;978-0-7503-3275-0
+Introduction to Networks of Networks;;;;978-0-7503-1047-5;;978-0-7503-1046-8
+Optical Design for LED Solid-State Lighting;;A guide;;978-0-7503-2366-6;;978-0-7503-2368-0
+Biological Evaluation of Materials;;The interaction of materials with their environment;;978-0-7503-2654-4;;978-0-7503-2656-8
+The Quantum Nature of Light;;From photon states to quantum fluids of light;;978-0-7503-2784-8;;978-0-7503-2786-2
+Total Internal Reflection Fluorescence (TIRF) and Evanescence Microscopies;;;;978-0-7503-3349-8;;978-0-7503-3351-1
+Techniques for Lithium Isotope Separation, Laser Cooling, and Scattering;;;;978-0-7503-3837-0;;978-0-7503-3839-4
+Systems for Printed Flexible Sensors;;Design and implementation;;978-0-7503-3933-9;;978-0-7503-3935-3
+Electrochemical Sensors Based on Carbon Composite Materials;;Fabrication, properties and applications;;978-0-7503-5125-6;;978-0-7503-5127-0
+Explicit Symmetry Breaking in Electrodynamic Systems and Electromagnetic Radiation (Second Edition);;;;978-0-7503-5130-0;;978-0-7503-5132-4
+Fundamentals of Quantum Entanglement (Second Edition);;;;978-0-7503-5265-9;;978-0-7503-5269-7
+Fiber Optic Pulse Compression;;Numerical techniques and applications with MATLAB®;;978-0-7503-2684-1;;978-0-7503-2686-5
+Modeling Semi-arid Water–Soil–Vegetation Systems in a Changing Climate;;;;978-0-7503-4018-2;;978-0-7503-4020-5
+Carbon Dots;;Next-generation materials for biomedical applications;;978-0-7503-4639-9;;978-0-7503-4641-2
+An Introduction to Photonics and Laser Physics with Applications;;;;978-0-7503-5225-3;;978-0-7503-5226-0
+Studies in Theoretical Physics, Volume 1;;Fundamental mathematical methods;;978-0-7503-3133-3;;978-0-7503-3135-7
+Radioactive Sample Counting: Principles and Practice (Second Edition);;IPEM report 85;;978-0-7503-3893-6;;978-0-7503-3895-0
+Dynamical Properties in Nanostructured and Low-Dimensional Materials (Second Edition);;;;978-0-7503-3901-8;;978-0-7503-3903-2
+Advances in Image and Data Processing using VLSI Design, Volume 2;;Biomedical applications;;978-0-7503-3921-6;;978-0-7503-3923-0
+Quantum Computation and Quantum Information Simulation using Python;;A gentle introduction;;978-0-7503-3961-2;;978-0-7503-3963-6
+RF-MEMS Technology for High-Performance Passives (Second Edition);;5G applications and prospects for 6G;;978-0-7503-4197-4;;978-0-7503-4199-8
+Simplified Quantum Computing with Applications;;;;978-0-7503-4698-6;;978-0-7503-4700-6
+Polyadic Algebraic Structures;;;;978-0-7503-2646-9;;978-0-7503-2648-3
+Monte Carlo Calculations in Nuclear Medicine (Second Edition);;Therapeutic applications;;978-0-7503-2692-6;;978-0-7503-2694-0
+Positron Emission Particle Tracking;;A comprehensive guide;;978-0-7503-3069-5;;978-0-7503-3071-8
+Approaching Global Oncology;;The win-win model;;978-0-7503-3073-2;;978-0-7503-3075-6
+The Physics of Organic Electronics;;From molecules to crystals and polymers;;978-0-7503-3345-0;;978-0-7503-3347-4
+Zero-dimensional Carbon Nanomaterials;;Fundamentals and applications;;978-0-7503-4034-2;;978-0-7503-4048-9
+Optical Path Theory;;Fundamentals to freeform adaptive optics;;978-0-7503-4703-7;;978-0-7503-4705-1
+Pre-equilibrium Emission in Nuclear Reactions;;Fundamentals, measurements and analysis;;978-0-7503-5075-4;;978-0-7503-5077-8
+Bismuth-Based Materials for Environmental Remediation;;;;978-0-7503-5135-5;;978-0-7503-5138-6
+Wearable Communication Systems and Antennas (Second Edition);;Design, efficiency, and miniaturization techniques;;978-0-7503-5220-8;;978-0-7503-5224-6
+Extragalactic Astrophysics (Second Edition);;;;978-0-7503-3549-2;;978-0-7503-3551-5
+Fundamental Ideas in Cosmology;;Scientific, philosophical and sociological critical perspectives;;978-0-7503-3773-1;;978-0-7503-3775-5
+Assessment in University Physics Education;;;;978-0-7503-3849-3;;978-0-7503-3851-6
+Computational Intelligence Based Solutions for Vision Systems;;;;978-0-7503-4819-5;;978-0-7503-4821-8
+Nuclear Power (Second Edition);;Past, present and future;;978-0-7503-5150-8;;978-0-7503-5152-2
+Nuclear Waste;;Management, disposal and governance;;978-0-7503-3093-0;;978-0-7503-3095-4
+Image-Guided Radiation Therapy;;Physics and technology;;978-0-7503-3361-0;;978-0-7503-3363-4
+Classical Field Theory and the Stress–Energy Tensor (Second Edition);;;;978-0-7503-3453-2;;978-0-7503-3455-6
+Electroweak Baryogenesis (Second Edition);;An introduction;;978-0-7503-3569-0;;978-0-7503-3571-3
+Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging, Volume 1;;Characterization approaches;;978-0-7503-3793-9;;978-0-7503-3795-3
+Laser Beam Profiling: Cost-Effective Solutions;;;;978-0-7503-3833-2;;978-0-7503-3835-6
+Thermodynamics, Kinetics and Microstructure Modelling;;;;978-0-7503-3145-6;;978-0-7503-3147-0
+Spectroscopic Techniques for Dentistry Applications;;Recent advances;;978-0-7503-3457-0;;978-0-7503-3459-4
+Computational Methods Using MATLAB®;;An introduction for physicists;;978-0-7503-3789-2;;978-0-7503-3791-5
+Optical Nanomanipulation (Second Edition);;;;978-0-7503-4189-9;;978-0-7503-4191-2
+Biopharmaceutical Manufacturing, Volume 2;;Unit processes;;978-0-7503-3177-7;;978-0-7503-3179-1
+Quantum Optics and Quantum Computation;;An introduction;;978-0-7503-2713-8;;978-0-7503-2715-2
+Detection Systems in Lung Cancer and Imaging, Volume 1;;;;978-0-7503-3353-5;;978-0-7503-3355-9
+Thermodynamic Cycles for Renewable Energy Technologies;;;;978-0-7503-3709-0;;978-0-7503-3711-3
+Origins of Giant Planets, Volume 1;;Disks, dust, and planetesimals;;978-0-7503-2134-1;;978-0-7503-2136-5
+Gravitational Waves in Physics and Astrophysics;;An artisan's guide;;978-0-7503-3049-7;;978-0-7503-3051-0
+Multimessenger Astronomy in Practice;;;;978-0-7503-2342-0;;978-0-7503-2344-4
+An Introduction to Stellar Magnetic Activity;;;;978-0-7503-2130-3;;978-0-7503-2132-7
+Active Galactic Nuclei;;Fueling and feedback;;978-0-7503-3033-6;;978-0-7503-3035-0
+Planetary Habitability;;;;978-0-7503-2118-1;;978-0-7503-2120-4
+Galaxy Morphology;;;;978-0-7503-3497-6;;978-0-7503-3499-0
+Photo Acoustic and Optical Coherence Tomography Imaging, Volume 3;;Angiography: an application in vessel imaging;;978-0-7503-2058-0;;978-0-7503-2060-3
+Modern Quantum Mechanics and Quantum Information;;;;978-0-7503-2165-5;;978-0-7503-2167-9
+Predictive Analytics in Healthcare, Volume 1;;Transforming the future of medicine;;978-0-7503-2310-9;;978-0-7503-2312-3
+Practical Collider Physics;;;;978-0-7503-2442-7;;978-0-7503-2444-1
+Single-photon Detection for Data Communication and Quantum Systems;;;;978-0-7503-2582-0;;978-0-7503-2584-4
+Batteries;;Materials principles and characterization methods;;978-0-7503-2680-3;;978-0-7503-2682-7
+Research Collaboration;;A step-by-step guide to success;;978-0-7503-2725-1;;978-0-7503-2727-5
+Electrochemical Energy Storage Devices and Supercapacitors;;An overview;;978-0-7503-3101-2;;978-0-7503-3103-6
+Practical Terahertz Electronics: Devices and Applications, Volume 1;;Solid-state devices and vacuum tubes;;978-0-7503-3169-2;;978-0-7503-3171-5
+Biopharmaceutical Manufacturing, Volume 1;;Regulatory processes;;978-0-7503-3173-9;;978-0-7503-3175-3
+Neurocognitive Perspectives of Prosocial and Positive Emotional Behaviours;;Theory to application;;978-0-7503-3381-8;;978-0-7503-3383-2
+Aurivillius Phase Materials;;Exploring lead-free ferroelectrics;;978-0-7503-3417-4;;978-0-7503-3419-8
+Printed and Flexible Sensor Technology;;Fabrication and applications;;978-0-7503-3437-2;;978-0-7503-3439-6
+The Jaynes–Cummings Model and Its Descendants;;Modern research directions;;978-0-7503-3445-7;;978-0-7503-3447-1
+Modeling and Computation in Vibration Problems, Volume 1;;Numerical and semi-analytical methods;;978-0-7503-3481-5;;978-0-7503-3483-9
+Modeling and Computation in Vibration Problems, Volume 2;;Soft computing and uncertainty;;978-0-7503-3485-3;;978-0-7503-3487-7
+Radio Photonics;;Techniques and enabling technology;;978-0-7503-3509-6;;978-0-7503-3511-9
+Phase Space Crystals;;Condensed matter in dynamical systems;;978-0-7503-3561-4;;978-0-7503-3563-8
+Turbulent Flows: an Introduction;;;;978-0-7503-3617-8;;978-0-7503-3619-2
+Dimensional Analysis;;The great principle of similitude;;978-0-7503-3653-6;;978-0-7503-3655-0
+Nanotechnology for Dentistry Applications;;;;978-0-7503-3669-7;;978-0-7503-3671-0
+Rich Quasiparticle Properties of Low Dimensional Systems;;;;978-0-7503-3781-6;;978-0-7503-3783-0
+Gravity, Magnetic and Electromagnetic Gradiometry (Second Edition);;Strategic technologies in the 21st century;;978-0-7503-3801-1;;978-0-7503-3803-5
+Simulation of Complex Systems;;;;978-0-7503-3841-7;;978-0-7503-3843-1
+Biosensors for Virus Detection;;;;978-0-7503-3865-3;;978-0-7503-3867-7
+Advances in Image and Data Processing using VLSI Design, Volume 1;;Smart vision systems;;978-0-7503-3917-9;;978-0-7503-3919-3
+Hot Carriers in Semiconductors;;;;978-0-7503-3945-2;;978-0-7503-3947-6
+Sustainable Urban Development;;Topics, trends and solutions;;978-0-7503-3969-8;;978-0-7503-3971-1
+First-Principles Calculations for Cathode, Electrolyte and Anode Battery Materials;;;;978-0-7503-4683-2;;978-0-7503-4685-6
+Practical Terahertz Electronics: Devices and Applications, Volume 2;;Optical devices and applications;;978-0-7503-4884-3;;978-0-7503-4886-7
+Macroscopic Superconducting Phenomena;;An interactive guide;;978-0-7503-2709-1;;978-0-7503-2711-4
+Surface NMR for Hydrogeology;;A user's guide;;978-0-7503-3153-1;;978-0-7503-3155-5
+2D Materials for Energy Storage and Conversion;;;;978-0-7503-3317-7;;978-0-7503-3319-1
+Introduction to Nonlinear Optics of Photonic Crystals and Metamaterials (Second Edition);;;;978-0-7503-3577-5;;978-0-7503-3579-9
+Electronic Tongues;;Fundamentals and recent advances;;978-0-7503-3685-7;;978-0-7503-3687-1
+Nanostructured Materials for Photoelectrochemical Water Splitting;;;;978-0-7503-3697-0;;978-0-7503-3699-4
+Virtual and Real Labs for Introductory Physics II;;Optics, modern physics, and electromagnetism;;978-0-7503-3713-7;;978-0-7503-3715-1
+Turbulence and Instabilities in Magnetised Plasmas, Volume 2;;Gyrokinetic theory and gyrofluid turbulence;;978-0-7503-3853-0;;978-0-7503-3855-4
+Bionanomaterials for Environmental and Agricultural Applications;;;;978-0-7503-3861-5;;978-0-7503-3863-9
+Advances in Physics of Rydberg Atoms and Molecules;;;;978-0-7503-3937-7;;978-0-7503-3939-1
+A Brief Introduction to Topology and Differential Geometry in Condensed Matter Physics (Second Edition);;;;978-0-7503-3953-7;;978-0-7503-3955-1
+Ultra-Relativistic Effects of Laser Beam and Electron Interactions;;Basic equations, exact solutions and modelling;;978-0-7503-3981-0;;978-0-7503-3984-1
+Quantum Statistical Mechanics in Classical Phase Space;;;;978-0-7503-4053-3;;978-0-7503-4055-7
+Metal Electrodes for Battery Technologies;;;;978-0-7503-4869-0;;978-0-7503-4871-3
+ExoFrontiers;;Big questions in exoplanetary science;;978-0-7503-1470-1;;978-0-7503-1472-5
+Experimental Astrophysics;;;;978-0-7503-3117-3;;978-0-7503-3119-7
+Molecular Theory of Electric Double Layers;;;;978-0-7503-2274-4;;978-0-7503-2276-8
+Developments in Photoelasticity;;A renaissance;;978-0-7503-2470-0;;978-0-7503-2472-4
+Philosophy and the Interpretation of Quantum Physics;;;;978-0-7503-2598-1;;978-0-7503-2600-1
+Composites Engineering: An A–Z Guide;;;;978-0-7503-3525-6;;978-0-7503-3527-0
+Introduction to the Mathematical Physics of Nonlinear Waves (Second Edition);;;;978-0-7503-3757-1;;978-0-7503-3759-5
+Dynamic X-ray Imaging Systems Used in Medicine;;Quality control in performance characteristics;;978-0-7503-3817-2;;978-0-7503-3819-6
+Quantum Chemistry (Third Edition);;A concise introduction for students of physics, chemistry, biochemistry and materials science;;978-0-7503-3825-7;;978-0-7503-3827-1
+Gas Sensors;;Materials and devices;;978-0-7503-3993-3;;978-0-7503-3995-7
+Principles of Multimessenger Astronomy;;;;978-0-7503-2338-3;;978-0-7503-2340-6
+Advanced Nuclear Radiation Detectors;;Materials, processing, properties and applications;;978-0-7503-2506-6;;978-0-7503-2508-0
+Efficient Extreme Ultraviolet Mirror Design;;An FDTD approach;;978-0-7503-2650-6;;978-0-7503-2652-0
+Energy from Nuclear Fusion;;;;978-0-7503-3305-4;;978-0-7503-3307-8
+Optics and Artificial Vision;;;;978-0-7503-3705-2;;978-0-7503-3707-6
+Advanced Security Solutions for Multimedia;;;;978-0-7503-3733-5;;978-0-7503-3735-9
+Laser Micro- and Nano-Scale Processing;;Fundamentals and applications;;978-0-7503-1681-1;;978-0-7503-1683-5
+High Frequency Sources of Coherent Radiation for Fusion Plasmas;;;;978-0-7503-2462-5;;978-0-7503-2464-9
+Nuclear Data;;A primer;;978-0-7503-2672-8;;978-0-7503-2674-2
+Physics of Cancer, Volume 3 (Second Edition);;Experimental biophysical techniques in cancer research;;978-0-7503-3113-5;;978-0-7503-3115-9
+Optical Fiber Technology and Applications;;Recent advances;;978-0-7503-3241-5;;978-0-7503-3243-9
+Domain Structured Dynamics;;Unpredictability, chaos, randomness, fractals, differential equations and neural networks;;978-0-7503-3505-8;;978-0-7503-3507-2
+The Physics of Sound Waves (Second Edition);;Music, instruments, and sound equipment;;978-0-7503-3537-9;;978-0-7503-3539-3
+Modeling and Design Photonics by Examples Using MATLAB®;;;;978-0-7503-2270-6;;978-0-7503-2272-0
+Emerging Laser Technologies for High-Power and Ultrafast Science;;;;978-0-7503-2534-9;;978-0-7503-2536-3
+Quantum Entanglement Engineering and Applications;;;;978-0-7503-3405-1;;978-0-7503-3407-5
+The Brain–Bladder Axis in Tissue Growth and Remodelling;;;;978-0-7503-3565-2;;978-0-7503-3567-6
+String Theory and the Real World (Second Edition);;The visible sector;;978-0-7503-3581-2;;978-0-7503-3583-6
+Molecular Photophysics and Spectroscopy (Second Edition);;;;978-0-7503-3681-9;;978-0-7503-3683-3
+High Performance Computing for Intelligent Medical Systems;;;;978-0-7503-3813-4;;978-0-7503-3815-8
+A Journey into Reciprocal Space (Second Edition);;A crystallographer's perspective;;978-0-7503-3873-8;;978-0-7503-3875-2
+Magnetic Fields in O, B, and A Stars;;;;978-0-7503-2390-1;;978-0-7503-2392-5
+Optical Systems Design Detection Essentials;;Radiometry, photometry, colorimetry, noise, and measurements;;978-0-7503-2250-8;;978-0-7503-2252-2
+Thermodynamics and Statistical Mechanics;;An introduction for physicists and engineers;;978-0-7503-3081-7;;978-0-7503-3083-1
+A Handbook of Mathematical Methods and Problem-Solving Tools for Introductory Physics (Second Edition);;;;978-0-7503-3397-9;;978-0-7503-3399-3
+Bionanomaterials;;Fundamentals and biomedical applications;;978-0-7503-3765-6;;978-0-7503-3767-0
+Optical Radiation and Matter;;;;978-0-7503-2622-3;;978-0-7503-2624-7
+Single-particle Cryo-EM of Biological Macromolecules;;;;978-0-7503-3037-4;;978-0-7503-3039-8
+Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 1;;Part I: Ex vivo biological imaging;;978-0-7503-3057-2;;978-0-7503-3059-6
+The Safe Use of Cryogenic Technologies;;A handbook for best practice and training;;978-0-7503-3121-0;;978-0-7503-3123-4
+Nanoscale Standards by Metrological AFM and Other Instruments;;;;978-0-7503-3189-0;;978-0-7503-3191-3
+Topology in Optics (Second Edition);;Tying light in knots;;978-0-7503-3469-3;;978-0-7503-3471-6
+Semiconductor Integrated Optics for Switching Light (Second Edition);;;;978-0-7503-3517-1;;978-0-7503-3519-5
+Designing Hybrid Nanoparticles (Second Edition);;;;978-0-7503-3585-0;;978-0-7503-3587-4
+Physics of the Lorentz Group (Second Edition);;Beyond high-energy physics and optics;;978-0-7503-3605-5;;978-0-7503-3607-9
+Blockchain in the Industrial Internet of Things;;;;978-0-7503-3661-1;;978-0-7503-3663-5
+Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2;;Parts II–IV: In vivo preclinical imaging, multimodality imaging and outlook;;978-0-7503-3745-8;;978-0-7503-3747-2
+Warm Dense Matter;;Laboratory generation and diagnosis;;978-0-7503-2346-8;;978-0-7503-2348-2
+Spectroscopy and Machine Learning for Water Quality Analysis;;;;978-0-7503-3045-9;;978-0-7503-3047-3
+Biophysics of the Senses (Second Edition);;;;978-0-7503-3281-1;;978-0-7503-3283-5
+Key Methods and Concepts in Condensed Matter Physics;;Green's functions and real space renormalization group;;978-0-7503-3393-1;;978-0-7503-3395-5
+Theoretical Tools for Spin Models in Magnetic Systems;;;;978-0-7503-3877-6;;978-0-7503-3879-0
+Solid State Physics;;A primer;;978-0-7503-2262-1;;978-0-7503-2265-2
+Turbulence and Instabilities in Magnetised Plasmas, Volume 1;;Fluid drift turbulence;;978-0-7503-2502-8;;978-0-7503-2504-2
+Quantum Transport in Nanostructures and Molecules;;An introduction to molecular electronics;;978-0-7503-3637-6;;978-0-7503-3639-0
+Ultrafast Lasers and Optics for Experimentalists;;;;978-0-7503-3657-4;;978-0-7503-3659-8
+Quantum Field Theory;;A quantum computation approach;;978-0-7503-2185-3;;978-0-7503-2187-7
+Superconducting Materials and Their Applications;;An interdisciplinary approach;;978-0-7503-2254-6;;978-0-7503-2256-0
+Modern Applications of 3D/4D Ultrasound Imaging in Radiotherapy;;;;978-0-7503-2550-9;;978-0-7503-2552-3
+Simple Atomic and Molecular Systems;;New results and applications;;978-0-7503-3677-2;;978-0-7503-3679-6
+Introductory Notes on Planetary Science;;The solar system, exoplanets and planet formation;;978-0-7503-2210-2;;978-0-7503-2212-6
+Astronomy Education, Volume 2;;Best practices for online learning environments;;978-0-7503-1717-7;;978-0-7503-1719-1
+Planetary Diversity;;Rocky planet processes and their observational signatures;;978-0-7503-2138-9;;978-0-7503-2140-2
+The Cosmic Evolution of Galaxy Structure;;;;978-0-7503-2668-1;;978-0-7503-2670-4
+Common Envelope Evolution;;;;978-0-7503-1561-6;;978-0-7503-1563-0
+Elementary Cosmology (Second Edition);;From Aristotle's universe to the Big Bang and beyond;;978-0-7503-3613-0;;978-0-7503-3615-4
+Introduction to Stars and Planets;;An activities-based exploration;;978-0-7503-3689-5;;978-0-7503-3691-8
+Intensity Modulated Radiation Therapy;;A clinical overview;;978-0-7503-1336-0;;978-0-7503-1335-3
+Visible Light;;Data communications and applications;;978-0-7503-1678-1;;978-0-7503-1680-4
+Engineering Electrodynamics;;A collection of theorems, principles and field representations;;978-0-7503-1714-6;;978-0-7503-1716-0
+Neurological Disorders and Imaging Physics, Volume 4;;Application to attention deficit hyperactivity disorder;;978-0-7503-1799-3;;978-0-7503-1822-8
+Modeling and Simulating Cardiac Electrical Activity;;;;978-0-7503-2062-7;;978-0-7503-2064-1
+Lens Design Basics;;Optical design problem-solving in theory and practice;;978-0-7503-2238-6;;978-0-7503-2240-9
+Orbital Angular Momentum States of Light;;Propagation through atmospheric turbulence;;978-0-7503-2278-2;;978-0-7503-2280-5
+Introduction to Simulation Methods for Gas Discharge Plasmas;;Accuracy, reliability and limitations;;978-0-7503-2358-1;;978-0-7503-2360-4
+Advances in Optical Form and Coordinate Metrology;;;;978-0-7503-2522-6;;978-0-7503-2524-0
+Advances in Optical Surface Texture Metrology;;;;978-0-7503-2526-4;;978-0-7503-2528-8
+Solid-State NMR;;Applications in biomembrane structure;;978-0-7503-2530-1;;978-0-7503-2532-5
+Semiconducting Metal Oxide Thin-Film Transistors;;;;978-0-7503-2554-7;;978-0-7503-2556-1
+Practical Electrodynamics with Advanced Applications;;;;978-0-7503-2574-5;;978-0-7503-2576-9
+Nanofabrication;;Nanolithography techniques and their applications;;978-0-7503-2606-3;;978-0-7503-2608-7
+Biochar;;Emerging applications;;978-0-7503-2658-2;;978-0-7503-2660-5
+Commercialising Fusion Energy;;How small businesses are transforming big science;;978-0-7503-2717-6;;978-0-7503-2719-0
+The Everyday Physics of Hearing and Vision (Second Edition);;;;978-0-7503-3205-7;;978-0-7503-3207-1
+Modelling and Analysis of Active Biopotential Signals in Healthcare, Volume 2;;;;978-0-7503-3409-9;;978-0-7503-3411-2
+Modern Analytical Electromagnetic Homogenization with Mathematica®(Second Edition);;;;978-0-7503-3421-1;;978-0-7503-3423-5
+Practical Analog, Digital, and Embedded Electronics for Scientists;;;;978-0-7503-3489-1;;978-0-7503-3491-4
+Lens Design (Second Edition);;Automatic and quasi-autonomous computational methods and techniques;;978-0-7503-3693-2;;978-0-7503-3695-6
+Diabetes Systems Biology;;Quantitative methods for understanding beta-cell dynamics and function;;978-0-7503-3737-3;;978-0-7503-3739-7
+Seeing the Unseen;;Mount Wilson's role in high angular resolution astronomy;;978-0-7503-2206-5;;978-0-7503-2208-9
+Radiation Detection for Nuclear Physics;;Methods and industrial applications;;978-0-7503-1429-9;;978-0-7503-1428-2
+An Introduction to Fluorescence Correlation Spectroscopy;;;;978-0-7503-2078-8;;978-0-7503-2080-1
+Flow Dynamics and Tissue Engineering of Blood Vessels;;;;978-0-7503-2086-3;;978-0-7503-2088-7
+Nuclear Materials Science (Second Edition);;;;978-0-7503-2374-1;;978-0-7503-2376-5
+Nanoparticle Enhanced Radiation Therapy;;Principles, methods and applications;;978-0-7503-2394-9;;978-0-7503-2396-3
+Flow Measurement by Electromagnetic Induction;;Theory and numerical methods;;978-0-7503-2562-2;;978-0-7503-2564-6
+Advances in Modern Sensors;;Physics, design, simulation and applications;;978-0-7503-2705-3;;978-0-7503-2707-7
+A Guided Tour of Light Beams (Second Edition);;From lasers to optical knots;;978-0-7503-3465-5;;978-0-7503-3467-9
+Electromagnetic Waves and Lasers (Second Edition);;;;978-0-7503-3521-8;;978-0-7503-3523-2
+Magnesium-Based Nanocomposites;;Advances and applications;;978-0-7503-3533-1;;978-0-7503-3535-5
+The Bohr Atom;;A guide;;978-0-7503-3609-3;;978-0-7503-3611-6
+Physics of Digital Photography (Second Edition);;;;978-0-7503-2559-2;;978-0-7503-2558-5
+Spectroscopic Techniques for Archaeological and Cultural Heritage Research;;;;978-0-7503-2614-8;;978-0-7503-2616-2
+Collective Light Emission;;Many quantum emitters;;978-0-7503-2697-1;;978-0-7503-2699-5
+Particle–Antiparticle Asymmetry in the B Meson System;;;;978-0-7503-3649-9;;978-0-7503-3651-2
+Protein and Peptide-based Microarrays for Multiplex Detection;;;;978-0-7503-3665-9;;978-0-7503-3667-3
+The NASA Kepler Mission;;;;978-0-7503-2294-2;;978-0-7503-2296-6
+Foundations of Quantum Cosmology;;;;978-0-7503-2458-8;;978-0-7503-2460-1
+An Introduction to Quantum Optics;;An open systems approach;;978-0-7503-1711-5;;978-0-7503-1713-9
+Wide Bandgap Semiconductor-Based Electronics;;;;978-0-7503-2514-1;;978-0-7503-2516-5
+A Mathematically Coherent Quantum Gravity;;;;978-0-7503-2578-3;;978-0-7503-2580-6
+Computation in Science (Second Edition);;From concepts to practice;;978-0-7503-3285-9;;978-0-7503-3287-3
+Stigmatic Optics;;;;978-0-7503-3461-7;;978-0-7503-3463-1
+Magnetically Confined Fusion Plasma Physics, Volume 2;;Multifluid theory;;978-0-7503-3573-7;;978-0-7503-3575-1
+Emerging Photovoltaic Technologies;;;;978-0-7503-2150-1;;978-0-7503-2152-5
+Optics Experiments and Demonstrations for Student Laboratories;;;;978-0-7503-2298-0;;978-0-7503-2300-0
+Rays, Waves and Photons;;A compendium of foundations and emerging technologies of pure and applied optics;;978-0-7503-2610-0;;978-0-7503-2612-4
+Modern Physics;;A critical approach;;978-0-7503-2676-6;;978-0-7503-2678-0
+Classical Mechanics;;A professor–student collaboration;;978-0-7503-2688-9;;978-0-7503-2690-2
+Transport in Semiconductor Mesoscopic Devices (Second Edition);;;;978-0-7503-3137-1;;978-0-7503-3139-5
+Modelling and Analysis of Active Biopotential Signals in Healthcare, Volume 1;;;;978-0-7503-3277-4;;978-0-7503-3279-8
+Thermodynamics of Complex Systems;;Principles and applications;;978-0-7503-3449-5;;978-0-7503-3451-8
+An Introduction to Plasma Physics and its Space Applications, Volume 2;;Basic equations and applications;;978-0-7503-3541-6;;978-0-7503-3543-0
+Path Integral Quantization;;;;978-0-7503-3545-4;;978-0-7503-3547-8
+Essentials of Nucleosynthesis and Theoretical Nuclear Astrophysics;;;;978-0-7503-1150-2;;978-0-7503-1149-6
+Life With Hubble;;An insider's view of the world's most famous telescope;;978-0-7503-2036-8;;978-0-7503-2038-2
+Neurological Disorders and Imaging Physics, Volume 5;;Applications in dyslexia, epilepsy and Parkinson's;;978-0-7503-2721-3;;978-0-7503-2723-7
+Quantum Mechanics in the Single Photon Laboratory;;;;978-0-7503-3061-9;;978-0-7503-3063-3
+Defining and Measuring Nature (Second Edition);;The make of all things;;978-0-7503-3141-8;;978-0-7503-3143-2
+Silicene-Based Layered Materials;;Essential properties;;978-0-7503-3297-2;;978-0-7503-3299-6
+Advances in X-Ray Spectroscopy of Laser Plasmas;;;;978-0-7503-3373-3;;978-0-7503-3375-7
+Creating Materials with a Desired Refraction Coefficient (Second Edition);;;;978-0-7503-3389-4;;978-0-7503-3391-7
+Ecological Modelling and Ecophysics;;Agricultural and environmental applications;;978-0-7503-2430-4;;978-0-7503-2432-8
+Physics in Food Manufacturing;;Case studies in fundamental and applied research;;978-0-7503-2594-3;;978-0-7503-2596-7
+Algorithmic Information Theory for Physicists and Natural Scientists;;;;978-0-7503-2638-4;;978-0-7503-2640-7
+Cold Atoms and Molecules;;;;978-0-7503-3413-6;;978-0-7503-3415-0
+Effective Science Communication (Second Edition);;A practical guide to surviving as a scientist;;978-0-7503-2518-9;;978-0-7503-2520-2
+Quantum Computing;;A pathway to quantum logic design;;978-0-7503-2745-9;;978-0-7503-2747-3
+Quantum Mechanics for Nuclear Structure, Volume 2;;An intermediate level view;;978-0-7503-2169-3;;978-0-7503-2171-6
+Analytical Lens Design;;;;978-0-7503-3165-4;;978-0-7503-3167-8
+Energy-Smart Buildings;;Design, construction and monitoring of buildings for improved energy efficiency;;978-0-7503-3257-6;;978-0-7503-3259-0
+Leadership and Challenges in Medical Physics: A Strategic and Robust Approach;;A EUTEMPE network book;;978-0-7503-1396-4;;978-0-7503-1395-7
+Pipelined Analog to Digital Converter and Fault Diagnosis;;;;978-0-7503-1730-6;;978-0-7503-1732-0
+Nanoscale Energy Transport;;Emerging phenomena, methods and applications;;978-0-7503-1736-8;;978-0-7503-1738-2
+Thermoacoustic Tomography;;Principles and applications;;978-0-7503-3161-6;;978-0-7503-3163-0
+Transmission and Processing for Data Center Networking;;;;978-0-7503-2290-4;;978-0-7503-2292-8
+Measuring Nothing, Repeatedly;;Null experiments in physics;;978-1-64327-735-6;;978-1-64327-738-7
+The Globular Star Clusters of the Andromeda Galaxy;;;;978-1-64327-747-9;;978-1-64327-750-9
+Introduction to Cellular Biophysics, Volume 2;;From membrane transport to neural signalling;;978-1-64327-753-0;;978-1-64327-756-1
+Multiscale Modeling of Vascular Dynamics of Micro- and Nano-particles;;Application to drug delivery system;;978-1-64327-789-9;;978-1-64327-792-9
+Extreme Solar Particle Storms;;The hostile Sun;;978-0-7503-2230-0;;978-0-7503-2232-4
+The Chandra X-ray Observatory;;Exploring the high energy universe;;978-0-7503-2161-7;;978-0-7503-2163-1
+The Doppler Method for the Detection of Exoplanets;;;;978-0-7503-1687-3;;978-0-7503-1689-7
+The Cosmic 21-cm Revolution;;Charting the first billion years of our universe;;978-0-7503-2234-8;;978-0-7503-2236-2
+Anatomy for the Royal College of Radiologists Fellowship;;Illustrated questions and answers;;978-0-7503-1186-1;;978-0-7503-1185-4
+Green Nanomaterials;;From bioinspired synthesis to sustainable manufacturing of inorganic nanomaterials;;978-0-7503-1222-6;;978-0-7503-1221-9
+Radiation Dose Management of Pregnant Patients, Pregnant Staff and Paediatric Patients;;Diagnostic and interventional radiology;;978-0-7503-1318-6;;978-0-7503-1317-9
+Global Approaches to Environmental Management on Military Training Ranges;;;;978-0-7503-1603-3;;978-0-7503-1605-7
+Energy Harvesting Properties of Electrospun Nanofibers;;;;978-0-7503-2003-0;;978-0-7503-2005-4
+Electromechanical Energy Conversion Through Active Learning;;;;978-0-7503-2082-5;;978-0-7503-2084-9
+Quantum Mechanics for Nuclear Structure, Volume 1;;A primer;;978-0-7503-2177-8;;978-0-7503-2179-2
+Machine Learning for Tomographic Imaging;;;;978-0-7503-2214-0;;978-0-7503-2216-4
+Optical Cryptosystems;;;;978-0-7503-2218-8;;978-0-7503-2220-1
+Lung Cancer and Imaging;;;;978-0-7503-2538-7;;978-0-7503-2540-0
+Organic Narrowband Photodetectors;;Materials, devices and applications;;978-0-7503-2662-9;;978-0-7503-2663-6
+The Mystery of Carbon;;An introduction to carbon materials;;978-0-7503-1183-0;;978-0-7503-1182-3
+Spectroscopic Tools for Food Analysis;;;;978-0-7503-2322-2;;978-0-7503-2324-6
+Mechanics of Biological Systems;;Introduction to mechanobiology and experimental techniques;;978-1-64327-389-1;;978-1-64327-392-1
+A Modern Introduction to Neutrino Physics;;;;978-1-64327-679-3;;978-1-64327-680-9
+Relativistic Quantum Field Theory, Volume 1;;Canonical formalism;;978-1-64327-699-1;;978-1-64327-702-8
+Relativistic Quantum Field Theory, Volume 2;;Path integral formalism;;978-1-64327-705-9;;978-1-64327-708-0
+The Ringed Planet (Second Edition);;Cassini's voyage of discovery at Saturn;;978-1-64327-711-0;;978-1-64327-714-1
+Relativistic Quantum Field Theory, Volume 3;;Applications of quantum field theory;;978-1-64327-759-2;;978-1-64327-762-2
+Resonant Tunneling Diode Photonics;;Devices and applications;;978-1-64327-741-7;;978-1-64327-744-8
+Investigative Science Learning Environment;;When learning physics mirrors doing physics;;978-1-64327-777-6;;978-1-64327-780-6
+Astronomy Education, Volume 1;;Evidence-based instruction for introductory courses;;978-0-7503-1721-4;;978-0-7503-1723-8
+Numerical Modelling of Bulk Superconductor Magnetisation;;;;978-0-7503-1333-9;;978-0-7503-1332-2
+Principles of Biophotonics, Volume 2;;Light emission, detection, and statistics;;978-0-7503-1642-2;;978-0-7503-1644-6
+Graphene Nanoribbons;;;;978-0-7503-1699-6;;978-0-7503-1701-6
+Neurological Disorders and Imaging Physics, Volume 2;;Engineering and clinical perspectives of multiple sclerosis;;978-0-7503-1760-3;;978-0-7503-1762-7
+Neurological Disorders and Imaging Physics, Volume 3;;Application to autism spectrum disorders and Alzheimer's;;978-0-7503-1764-1;;978-0-7503-1793-1
+Quantum Mechanics of the Diatomic Molecule with Applications;;;;978-0-7503-1890-7;;978-0-7503-1989-8
+Biophysical and Chemical Properties of Collagen: Biomedical Applications;;;;978-0-7503-2094-8;;978-0-7503-2096-2
+Scientific Basis of the Royal College of Radiologists Fellowship (2nd Edition);;Illustrated questions and answers;;978-0-7503-2146-4;;978-0-7503-2148-8
+Functional Ceramics Through Mechanochemical Activation;;;;978-0-7503-2189-1;;978-0-7503-2191-4
+Particle Tracking Velocimetry;;;;978-0-7503-2201-0;;978-0-7503-2203-4
+Visible Light Communications;;Vehicular applications;;978-0-7503-2282-9;;978-0-7503-2284-3
+Liquid Dielectrics in an Inhomogeneous Pulsed Electric Field (Second Edition);;Dynamics, cavitation and related phenomena;;978-0-7503-2370-3;;978-0-7503-2372-7
+Modern Optimization Methods for Science, Engineering and Technology;;;;978-0-7503-2402-1;;978-0-7503-2404-5
+Handbook of Exact Solutions to the Nonlinear Schrödinger Equations;;;;978-0-7503-2426-7;;978-0-7503-2428-1
+Semiconductors (Second Edition);;Bonds and bands;;978-0-7503-2478-6;;978-0-7503-2480-9
+Solitons in Crystalline Processes (2nd Edition);;Irreversible thermodynamics of structural phase transitions and superconductivity;;978-0-7503-2570-7;;978-0-7503-2572-1
+A Course on Digital Image Processing with MATLAB®;;;;978-0-7503-2602-5;;978-0-7503-2604-9
+Neurological Disorders and Imaging Physics, Volume 1;;Application of multiple sclerosis;;978-0-7503-1757-3;;978-0-7503-1759-7
+Fundamentals of Quantum Entanglement;;;;978-0-7503-2226-3;;978-0-7503-2228-7
+Characterisation Methods in Solid State and Materials Science;;;;978-0-7503-1384-1;;978-0-7503-1383-4
+Renewables (Second Edition);;A review of sustainable energy supply options;;978-0-7503-2302-4;;978-0-7503-2304-8
+Problem-Based Approaches to Physics;;Changing perspectives in higher education;;978-0-7503-2222-5;;978-0-7503-2224-9
+Analytical Advances in Quantum and Celestial Mechanics;;Separating rapid and slow subsystems;;978-0-7503-2510-3;;978-0-7503-2512-7
+Optics;;The science of light;;978-1-64327-673-1;;978-1-64327-676-2
+Numerical Calculation for Physics Laboratory Projects Using Microsoft EXCEL®;;;;978-1-64327-723-3;;978-1-64327-726-4
+The Physics of Noise;;;;978-1-64327-765-3;;978-1-64327-768-4
+Recent Advances in Innovative Magnetic Nanomaterials for Cancer Theranostics;;;;978-1-64327-783-7;;978-1-64327-786-8
+External Field and Radiation Stimulated Breast Cancer Nanotheranostics;;;;978-0-7503-2414-4;;978-0-7503-2416-8
+Atomic and Molecular Physics;;A primer;;978-0-7503-2258-4;;978-0-7503-2260-7
+Transformations of Materials;;;;978-1-64327-617-5;;978-1-64327-620-5
+An Introduction to Liquid Crystals;;;;978-1-64327-681-6;;978-1-64327-684-7
+Electrons in Solids;;Contemporary topics;;978-1-64327-687-8;;978-1-64327-690-8
+Lasers and Their Application to the Observation of Bose–Einstein Condensates;;;;978-1-64327-693-9;;978-1-64327-696-0
+Extragalactic Novae;;A historical perspective;;978-0-7503-1297-4;;978-0-7503-1296-7
+Time-Domain Studies of the Andromeda Galaxy;;;;978-0-7503-1354-4;;978-0-7503-1353-7
+Gamma-ray Burst Correlations;;Current status and open questions;;978-0-7503-1573-9;;978-0-7503-1575-3
+Vascular and Intravascular Imaging Trends, Analysis, and Challenges, Volume 1;;Stent applications;;978-0-7503-1995-9;;978-0-7503-1997-3
+Vascular and Intravascular Imaging Trends, Analysis, and Challenges, Volume 2;;Plaque characterization;;978-0-7503-1999-7;;978-0-7503-2002-3
+Lectures on the Physics of Extreme States of Matter;;;;978-0-7503-2126-6;;978-0-7503-2128-0
+Experimental Particle Physics;;Understanding the measurements and searches at the Large Hadron Collider;;978-0-7503-2110-5;;978-0-7503-2112-9
+Classical Mechanics, Volume 4;;The universal law of gravitation;;978-1-64327-299-3;;978-1-64327-302-0
+Classical Mechanics, Volume 5;;Conservation laws and rotational motion;;978-1-64327-395-2;;978-1-64327-398-3
+Open-Channel Microfluidics;;Fundamentals and applications;;978-1-64327-661-8;;978-1-64327-664-9
+Semiconductors and Modern Electronics;;;;978-1-64327-587-1;;978-1-64327-590-1
+Run in the Light;;Exploring exercise and photobiomodulation in Parkinson's disease;;978-1-64327-717-2;;978-1-64327-720-2
+Statistical Mechanics: Lecture notes;;Lecture notes;;978-0-7503-1417-6;;978-0-7503-1416-9
+Statistical Mechanics: Problems with solutions;;Problems with solutions;;978-0-7503-1420-6;;978-0-7503-1419-0
+Flexible Electronics, Volume 1;;Mechanical background, materials and manufacturing;;978-0-7503-1461-9;;978-0-7503-1462-6
+Flexible Electronics, Volume 2;;Thin-film transistors;;978-0-7503-2450-2;;978-0-7503-2453-3
+Flexible Electronics, Volume 3;;Energy devices and applications;;978-0-7503-2454-0;;978-0-7503-2456-4
+Mott Insulators;;Physics and applications;;978-0-7503-1594-4;;978-0-7503-1596-8
+Soft Biological Shells in Bioengineering;;;;978-0-7503-2193-8;;978-0-7503-2195-2
+Quantised Vortices;;A handbook of topological excitations;;978-1-64327-123-1;;978-1-64327-126-2
+Teaching Physics through Ancient Chinese Science and Technology;;中国古代科学技术与物理教学;;978-1-64327-455-3;;978-1-64327-458-4
+Classical Mechanics, Volume 1;;Tools and vectors;;978-1-64327-317-4;;978-1-64327-320-4
+Classical Mechanics, Volume 2;;Kinematics and uniformly accelerated motion;;978-1-64327-305-1;;978-1-64327-308-2
+Classical Mechanics, Volume 3;;Newton's laws and uniform circular motion;;978-1-64327-311-2;;978-1-64327-314-3
+Quantum Thermodynamics;;An introduction to the thermodynamics of quantum information;;978-1-64327-655-7;;978-1-64327-658-8
+Outside the Research Lab, Volume 3;;Physics in sport;;978-1-64327-667-0;;978-1-64327-670-0
+The Nuclear Nonproliferation Treaty;;;;978-1-68174-922-8;;978-1-68174-925-9
+Mathematical Devices for Optical Sciences;;;;978-0-7503-1612-5;;978-0-7503-1614-9
+Laser Safety;;Practical knowledge and solutions;;978-0-7503-1690-3;;978-0-7503-1692-7
+Principles of Protein–Protein Association;;;;978-0-7503-2410-6;;978-0-7503-2412-0
+Leonhard Euler's Letters to a German Princess;;A milestone in the history of physics textbooks and more;;978-1-64327-189-7;;978-1-64327-192-7
+The Physics of Emergence;;;;978-1-64327-153-8;;978-1-64327-156-9
+Stimuli-Responsive Polymers;;Nano-dimension;;978-1-64327-635-9;;978-1-64327-638-0
+Quantum Mechanics: Lecture notes;;Lecture notes;;978-0-7503-1411-4;;978-0-7503-1410-7
+Quantum Mechanics: Problems with solutions;;Problems with solutions;;978-0-7503-1414-5;;978-0-7503-1413-8
+A Modern Course in Quantum Field Theory, Volume 1;;Fundamentals;;978-0-7503-1481-7;;978-0-7503-1479-4
+A Modern Course in Quantum Field Theory, Volume 2;;Advanced topics;;978-0-7503-1484-8;;978-0-7503-1483-1
+Super Optical Biosensors;;;;978-0-7503-2382-6;;978-0-7503-2384-0
+Keplerian Ellipses;;The physics of the gravitational two-body problem;;978-1-64327-467-6;;978-1-64327-470-6
+On The Principle of Holographic Scaling;;From college physics to black hole thermodynamics;;978-1-64327-473-7;;978-1-64327-476-8
+Maple;;A Primer;;978-1-64327-485-0;;978-1-64327-488-1
+Set Theory for Physicists;;;;978-1-64327-647-2;;978-1-64327-650-2
+Nanomaterials;;The original product of nanotechnology;;978-1-64327-641-0;;978-1-64327-644-1
+Biomechanical Modeling of the Cardiovascular System;;;;978-0-7503-1282-0;;978-0-7503-1281-3
+Unexpected Similarities of the Universe with Atomic and Molecular Systems: What a Beautiful World;;;;978-0-7503-1705-4;;978-0-7503-1707-8
+Air-Puff Tonometers;;Challenges and insights;;978-0-7503-2016-0;;978-0-7503-2018-4
+Measurement, Uncertainty and Lasers;;;;978-0-7503-2326-0;;978-0-7503-2328-4
+Neutron Stars, Black Holes and Gravitational Waves;;;;978-1-64327-419-5;;978-1-64327-422-5
+Can Physics Save Miami (and Shanghai and Venice, by Lowering the Sea)?;;;;978-1-64327-425-6;;978-1-64327-428-7
+B Factories;;;;978-1-64327-249-8;;978-1-64327-252-8
+Comets in the 21st Century;;A personal guide to experiencing the next great comet!;;978-1-64327-443-0;;978-1-64327-446-1
+Nonlinear Dynamics;;A hands-on introductory survey;;978-1-64327-461-4;;978-1-64327-464-5
+The Mössbauer Effect;;;;978-1-64327-479-9;;978-1-64327-482-9
+Topological Insulators;;;;978-1-68174-516-9;;978-1-68174-517-6
+Hypersonic Meteoroid Entry Physics;;;;978-0-7503-1666-8;;978-0-7503-1668-2
+Airborne Radioactive Discharges and Human Health Effects;;An introduction;;978-0-7503-1357-5;;978-0-7503-1356-8
+Introduction to Pharmaceutical Biotechnology, Volume 3;;Animal tissue culture and biopharmaceuticals;;978-0-7503-1348-3;;978-0-7503-1347-6
+Lectures on Selected Topics in Mathematical Physics;;Further applications of Lie theory;;978-1-64327-347-1;;978-1-64327-350-1
+The Electrostatic Accelerator;;A versatile tool;;978-1-64327-353-2;;978-1-64327-356-3
+A Brief Introduction to Topology and Differential Geometry in Condensed Matter Physics;;;;978-1-64327-371-6;;978-1-64327-374-7
+Elements of Photoionization Quantum Dynamics Methods;;;;978-1-68174-713-2;;978-1-68174-712-5
+Introduction to Cellular Biophysics, Volume 1;;Membrane transport mechanisms;;978-1-64327-407-2;;978-1-64327-410-2
+Introduction to Nanomaterials in Medicine;;;;978-1-64327-413-3;;978-1-64327-416-4
+Cold Plasma Cancer Therapy;;;;978-1-64327-431-7;;978-1-64327-434-8
+Nanoparticle (NP)-Based Delivery Vehicles;;;;978-1-64327-449-2;;978-1-64327-452-2
+The Integrated Electro-Mechanical Drive;;A mechatronic approach;;978-0-7503-2046-7;;978-0-7503-2048-1
+Concepts and Applications of Nonlinear Terahertz Spectroscopy;;;;978-1-64327-213-9;;978-1-64327-216-0
+Special and General Relativity;;An introduction to spacetime and gravitation;;978-1-64327-377-8;;978-1-64327-380-8
+Atomic Physics;;;;978-1-64327-401-0;;978-1-64327-404-1
+Gas-Phase Chemistry in Space;;From elementary particles to complex organic molecules;;978-0-7503-1426-8;;978-0-7503-1425-1
+Magnetically Confined Fusion Plasma Physics;;Ideal MHD theory;;978-1-64327-135-4;;978-1-64327-138-5
+Energy Density Functional Methods for Atomic Nuclei;;;;978-0-7503-1423-7;;978-0-7503-1422-0
+Techniques of Classical Mechanics;;From Lagrangian to Newtonian mechanics;;978-0-7503-2074-0;;978-0-7503-2076-4
+Supersymmetric Methods in Quantum, Statistical and Solid State Physics;;Enlarged and revised edition;;978-0-7503-2024-5;;978-0-7503-2026-9
+Science in the Arena;;Explanations and analyses of performances and phenomena in sport;;978-1-64327-177-4;;978-1-64327-180-4
+Gravitational Waves;;;;978-0-7503-1518-0;;978-0-7503-1393-3
+Modern Interferometry for Length Metrology;;Exploring limits and novel techniques;;978-0-7503-1576-0;;978-0-7503-1578-4
+Wearable Communication Systems and Antennas for Commercial, Sport and Medical Applications;;;;978-0-7503-1708-5;;978-0-7503-1710-8
+Differential Topology and Geometry with Applications to Physics;;;;978-0-7503-2070-2;;978-0-7503-2072-6
+Inverse Imaging with Poisson Data;;From cells to galaxies;;978-0-7503-1438-1;;978-0-7503-1437-4
+Principles of Biophotonics, Volume 1;;Linear systems and the Fourier transform in optics;;978-0-7503-1639-2;;978-0-7503-1641-5
+Anthropomorphic Phantoms in Image Quality and Patient Dose Optimization;;A EUTEMPE Network book;;978-0-7503-1324-7;;978-0-7503-1323-0
+Computational Anatomical Animal Models;;Methodological developments and research applications;;978-0-7503-1345-2;;978-0-7503-1344-5
+Multiple Scattering Theory;;Electronic structure of solids;;978-0-7503-1488-6;;978-0-7503-1490-9
+Ultrasound-Mediated Imaging of Soft Materials;;;;978-0-7503-1748-1;;978-0-7503-1750-4
+Advances in Nanomaterials for Drug Delivery;;Polymeric, nanocarbon and bio-inspired;;978-1-68174-288-5;;978-1-68174-289-2
+Electronic Structure of Organic Semiconductors;;Polymers and small molecules;;978-1-64327-165-1;;978-1-64327-168-2
+An Introduction to Plasma Physics and its Space Applications, Volume 1;;Fundamentals and elementary processes;;978-1-64327-171-2;;978-1-64327-174-3
+An Introduction to Time-Resolved Optically Stimulated Luminescence;;;;978-1-64327-195-8;;978-1-64327-198-9
+Particle Physics;;;;978-1-64327-359-4;;978-1-64327-362-4
+Sonic Thunder;;A discussion of natural and artificial shock waves;;978-1-68174-963-1;;978-1-68174-966-2
+The Physics and Art of Photography, Volume 3;;Detectors and the meaning of digital;;978-1-64327-383-9;;978-1-64327-386-0
+Gamma-Ray Bursts;;;;978-0-7503-1500-5;;978-0-7503-1502-9
+The Possibility of Earthquake Forecasting;;Learning from nature;;978-0-7503-1249-3;;978-0-7503-1248-6
+Modeling and Analysis of Eclipsing Binary Stars;;The theory and design principles of PHOEBE;;978-0-7503-1288-2;;978-0-7503-1287-5
+Astrophysical Recipes;;The art of AMUSE;;978-0-7503-1321-6;;978-0-7503-1320-9
+Organic Lasers and Organic Photonics;;;;978-0-7503-1570-8;;978-0-7503-1572-2
+Non-Instantaneous Impulsive Differential Equations;;Basic theory and computation;;978-0-7503-1702-3;;978-0-7503-1704-7
+Guidance on the Personal Monitoring Requirements for Personnel Working in Healthcare;;;;978-0-7503-2197-6;;978-0-7503-2199-0
+The Statistical Eyeglasses;;The math behind scientific knowledge;;978-1-64327-147-7;;978-1-64327-150-7
+The Molecule as Meme;;;;978-1-64327-289-4;;978-1-64327-292-4
+Tying Light in Knots;;Applying topology to optics;;978-1-64327-231-3;;978-1-64327-234-4
+The Physics and Art of Photography, Volume 1;;Geometry and the nature of light;;978-1-64327-329-7;;978-1-64327-332-7
+International Linear Collider (ILC);;The next mega-scale particle collider;;978-1-64327-323-5;;978-1-64327-326-6
+The Physics and Art of Photography, Volume 2;;Energy and color;;978-1-64327-341-9;;978-1-64327-344-0
+Novel Microstructures for Solids;;;;978-1-64327-335-8;;978-1-64327-338-9
+Metamaterial Multiverse;;;;978-1-64327-365-5;;978-1-64327-368-6
+Rydberg Physics;;;;;;978-0-7503-1635-4
+The Wigner Function in Science and Technology;;;;978-0-7503-1669-9;;978-0-7503-1671-2
+Ahead of the Curve, Volume 2;;Hidden breakthroughs in the biosciences;;978-0-7503-1675-0;;978-0-7503-1677-4
+Singularities in Physics and Engineering;;Properties, methods, and applications;;978-0-7503-1696-5;;978-0-7503-1698-9
+Spectroscopic Probes of Quantum Matter;;;;978-0-7503-1739-9;;978-0-7503-1741-2
+Essential Semiconductor Laser Device Physics;;;;978-1-6432-7025-8;;978-1-6432-7028-9
+Spin-Wave Theory and its Applications to Neutron Scattering and THz Spectroscopy;;;;978-1-64327-111-8;;978-1-64327-114-9
+Generalized Hypergeometric Functions;;Transformations and group theoretical aspects;;978-0-7503-1494-7;;978-0-7503-1496-1
+Simulating Large-Scale Structure for Models of Cosmic Acceleration;;;;978-0-7503-1585-2;;978-0-7503-1587-6
+The Physics of DNA and Chromosomes;;;;;;978-0-7503-1602-6
+Foundations of Regenerative Biology and Medicine;;;;978-0-7503-1624-8;;978-0-7503-1626-2
+Elliptical Mirrors;;Applications in microscopy;;978-0-7503-1627-9;;978-0-7503-1629-3
+Matrix Models of String Theory;;;;978-0-7503-1724-5;;978-0-7503-1726-9
+Physics of Cancer, Volume 1 (Second Edition);;Interplay between tumor biology, inflammation and cell mechanics;;978-0-7503-1751-1;;978-0-7503-1753-5
+Creating the Molecules of Life;;;;978-0-7503-1991-1;;978-0-7503-1993-5
+Physics of Cancer, Volume 2 (Second Edition);;Cellular and microenvironmental effects;;978-0-7503-2114-3;;978-0-7503-2117-4
+The Physics of Destructive Earthquakes;;;;978-1-64327-075-3;;978-1-64327-078-4
+A Practical Introduction to Beam Physics and Particle Accelerators (Second Edition);;;;978-1-64327-087-6;;978-1-64327-090-6
+Truth and Traceability in Physics and Metrology;;;;978-1-64327-093-7;;978-1-64327-096-8
+Is It the 'Same' Result: Replication in Physics;;;;978-1-64327-159-0;;978-1-64327-162-0
+Electrostatics at the Molecular Level;;;;978-1-64327-183-5;;978-1-64327-186-6
+Fourier Transform and Its Applications Using Microsoft EXCEL®;;;;978-1-64327-283-2;;978-1-64327-286-3
+Lasers in Medical Diagnosis and Therapy;;Basics, applications and future prospects;;978-0-7503-1277-6;;978-0-7503-1275-2
+Introduction to Pharmaceutical Biotechnology, Volume 2;;Enzymes, proteins and bioinformatics;;978-0-7503-1303-2;;978-0-7503-1302-5
+Liquid Crystals;;;;978-0-7503-1363-6;;978-0-7503-1362-9
+Redefining the Kilogram and Other SI Units;;;;;;978-0-7503-1539-5
+Hubble Deep Field and the Distant Universe;;;;978-0-7503-1754-2;;978-0-7503-1756-6
+Measuring Time;;Frequency measurements and related developments in physics;;978-0-7503-2122-8;;978-0-7503-2124-2
+The Most Interesting Galaxies in the Universe;;;;978-1-6432-7001-2;;978-1-64327-004-3
+Outside the Research Lab, Volume 2;;Physics in vintage and modern transport;;978-1-64327-267-2;;978-1-64327-270-2
+Disorder in Domain Theory;;;;978-1-64327-271-9;;978-1-64327-274-0
+Numerical Solutions of Boundary Value Problems with Finite Difference Method;;;;978-1-64327-277-1;;978-1-64327-280-1
+Optical Fiber Multiplexing and Emerging Techniques;;SDM and OAM;;978-1-68174-568-8;;978-1-68174-569-5
+Principles of Statistical Physics and Numerical Modeling;;;;978-0-7503-1342-1;;978-0-7503-1341-4
+Magnetic Nanoparticles for Medical Diagnostics;;;;978-0-7503-1582-1;;978-0-7503-1584-5
+Electromechanical Machinery Theory and Performance;;;;978-0-7503-1660-6;;978-0-7503-1662-0
+Lithium Niobate-Based Heterostructures;;Synthesis, properties and electron phenomena;;978-0-7503-1727-6;;978-0-7503-1729-0
+Airborne Maritime Surveillance Radar, Volume 1;;British ASV radars in WWII 1939–1945;;978-1-6432-7063-0;;978-1-6432-7066-1
+Airborne Maritime Surveillance Radar, Volume 2;;Post-war British ASV radars 1946–2000;;978-1-6432-7069-2;;978-1-6432-7072-2
+Nonlinear Waves;;Theory, computer simulation, experiment;;978-1-64327-044-9;;978-1-64327-047-0
+Introduction to the Kinetics of Glow Discharges;;;;978-1-64327-057-9;;978-1-64327-060-9
+Introduction to Classical Field Theory;;A tour of the fundamental interactions;;978-1-64327-081-4;;978-1-64327-084-5
+From Complex to Simple;;Interdisciplinary stochastic models;;978-1-64327-117-0;;978-1-64327-120-0
+An Approach to Dark Matter Modelling;;;;978-1-64327-129-3;;978-1-64327-132-3
+Infinite-Space Dyadic Green Functions in Electromagnetism;;;;978-1-6817-4556-5;;978-1-6817-4557-2
+Carbon Capture and Storage;;;;;;978-0-7503-1581-4
+Tetraquarks and Pentaquarks;;;;;;978-0-7503-1593-7
+Lens Design;;Automatic and quasi-autonomous computational methods and techniques;;978-0-7503-1609-5;;978-0-7503-1611-8
+Hidden Physics at the LHC;;;;;;978-0-7503-1665-1
+Theory of Electromagnetic Pulses;;;;978-1-6432-7019-7;;978-1-6432-7022-7
+Quantum Field Theory;;An arcane setting for explaining the world;;978-1-6432-7050-0;;978-1-6432-7053-1
+Causality Rules;;A light treatise on dispersion relations and sum rules;;978-1-6817-4916-7;;978-1-6817-4919-8
+Separation of Variables and Superintegrability;;The symmetry of solvable systems;;978-0-7503-1315-5;;978-0-7503-1314-8
+Classical Electrodynamics: Lecture notes;;Lecture notes;;978-0-7503-1405-3;;978-0-7503-1404-6
+Classical Electrodynamics: Problems with solutions;;Problems with solutions;;978-0-7503-1408-4;;978-0-7503-1407-7
+Nuclear Waste Management;;;;;;978-0-7503-1638-5
+Adventures with Lissajous Figures;;;;978-1-6432-7007-4;;978-1-6432-7010-4
+Logic for Physicists;;;;978-1-6432-7013-5;;978-1-6432-7016-6
+An Introduction to the Physics of Nuclear Medicine;;;;978-1-6432-7031-9;;978-1-6432-7034-0
+The Continuing Quest for Missile Defense;;When lofty goals confront reality;;978-1-6817-4939-6;;978-1-6817-4942-6
+Basic Surfaces and their Analysis;;;;978-1-6817-4951-8;;978-1-6817-4954-9
+Theories of Matter, Space and Time, Volume 2;;Quantum theories;;978-1-6817-4980-8;;978-1-6817-4983-9
+Introduction to Beam Dynamics in High-Energy Electron Storage Rings;;;;978-1-6817-4986-0;;978-1-6817-4989-1
+Science and Computing with Raspberry Pi;;;;978-1-6817-4993-8;;978-1-6817-4996-9
+Entrepreneurship for Creative Scientists;;;;978-0-7503-1147-2;;978-0-7503-1146-5
+Introduction to Pharmaceutical Biotechnology, Volume 1;;Basic techniques and concepts;;978-0-7503-1300-1;;978-0-7503-1299-8
+Bias in Science and Communication;;A field guide;;978-0-7503-1312-4;;978-0-7503-1311-7
+Entropy Beyond the Second Law;;Thermodynamics and statistical mechanics for equilibrium, non-equilibrium, classical, and quantum systems;;978-0-7503-1588-3;;978-0-7503-1590-6
+An Introduction to Quantum Communications Networks;;Or, how shall we communicate in the quantum era?;;978-1-6817-4652-4;;978-1-6817-4653-1
+Electrodynamics;;Problems and solutions;;978-1-6817-4928-0;;978-1-6817-4931-0
+Relativistic Many-Body Theory and Statistical Mechanics;;;;978-1-6817-4945-7;;978-1-6817-4948-8
+An Introduction to Planetary Nebulae;;;;978-1-6817-4957-0;;978-1-6817-4960-0
+Numerical Solutions of Initial Value Problems Using Mathematica;;;;978-1-6817-4973-0;;978-1-6817-4976-1
+Classical Mechanics: Problems with solutions;;Problems with solutions;;978-0-7503-1402-2;;978-0-7503-1401-5
+Rotation, Reflection, and Frame Changes;;Orthogonal tensors in computational engineering mechanics;;978-0-7503-1452-7;;978-0-7503-1454-1
+Advanced Secure Optical Image Processing for Communications;;;;978-0-7503-1455-8;;978-0-7503-1457-2
+Printed Electronics;;;;;;978-0-7503-1608-8
+Of Clocks and Time;;;;978-1-6817-4032-4;;978-1-6817-4096-6
+How to Understand Quantum Mechanics;;;;978-1-6817-4162-8;;978-1-6817-4226-7
+Ionization and Ion Transport;;A primer for the study of non-equilibrium, low-temperature gas discharges and plasmas;;978-1-6817-4600-5;;978-1-6817-4601-2
+Quantum Metrology with Photoelectrons, Volume 1;;Foundations;;978-1-6817-4685-2;;978-1-6817-4684-5
+Quantum Metrology with Photoelectrons, Volume 2;;Applications and advances;;978-1-6817-4689-0;;978-1-6817-4688-3
+Atomic Structure;;;;978-1-6817-4877-1;;978-1-6817-4880-1
+Nanoelectronics;;;;;;978-0-7503-1568-5
+Antihydrogen Beams;;;;;;978-0-7503-2021-4
+Hyperbolic Metamaterials;;;;978-1-6817-4564-0;;978-1-6817-4565-7
+General Relativity: An Introduction to Black Holes, Gravitational Waves, and Cosmology;;;;978-1-6817-4882-5;;978-1-6817-4885-6
+Relativity, Symmetry, and the Structure of Quantum Theory, Volume 2;;Point form relativistic quantum mechanics;;978-1-6817-4888-7;;978-1-6817-4891-7
+Introduction to Computational Physics for Undergraduates;;;;978-1-6817-4893-1;;978-1-6817-4896-2
+Talking Renewables;;A renewable energy primer for everyone;;978-1-6817-4898-6;;978-1-6817-4901-3
+Thermal Properties of Matter;;;;978-1-6817-4584-8;;978-1-6817-4585-5
+Gravity, Magnetic and Electromagnetic Gradiometry;;Strategic technologies in the 21st century;;978-1-6817-4701-9;;978-1-6817-4700-2
+A Concise Introduction to Quantum Mechanics;;;;978-1-6817-4717-0;;978-1-6817-4716-3
+High Power Microwave Tubes: Basics and Trends, Volume 1;;;;978-1-6817-4560-2;;978-1-6817-4561-9
+Lattice Boltzmann Modeling of Complex Flows for Engineering Applications;;;;978-1-6817-4673-9;;978-1-6817-4672-2
+High Power Microwave Tubes: Basics and Trends, Volume 2;;;;978-1-6817-4705-7;;978-1-6817-4704-0
+Climate Change Resilience in the Urban Environment;;;;978-0-7503-1198-4;;978-0-7503-1197-7
+Physics of Shock and Impact, Volume 1;;Fundamentals and dynamic failure;;978-0-7503-1255-4;;978-0-7503-1254-7
+Physics of Shock and Impact, Volume 2;;Materials and shock response;;978-0-7503-1258-5;;978-0-7503-1257-8
+Understanding Stellar Evolution;;;;978-0-7503-1279-0;;978-0-7503-1278-3
+Astrophysics of Red Supergiants;;;;978-0-7503-1330-8;;978-0-7503-1329-2
+Practical Radiobiology for Proton Therapy Planning;;;;978-0-7503-1339-1;;978-0-7503-1338-4
+Silicon Photonics;;Electromagnetic theory;;978-0-7503-1387-2;;978-0-7503-1386-5
+Classical Mechanics: Lecture notes;;Lecture notes;;978-0-7503-1399-5;;978-0-7503-1398-8
+Nonlinear Guided Wave Optics;;A testbed for extreme waves;;978-0-7503-1458-9;;978-0-7503-1460-2
+Wearable Sensors;;Applications, design and implementation;;978-0-7503-1503-6;;978-0-7503-1505-0
+Theoretical Fluid Mechanics;;;;978-0-7503-1552-4;;978-0-7503-1554-8
+Optical Properties of Graphene in Magnetic and Electric Fields;;;;978-0-7503-1564-7;;978-0-7503-1566-1
+Theory of Magnetoelectric Properties of 2D Systems;;;;978-0-7503-1672-9;;978-0-7503-1674-3
+Detecting the Stochastic Gravitational-Wave Background;;;;978-1-6817-4018-8;;978-1-6817-4082-9
+Photomedicine and Stem Cells;;The Janus face of photodynamic therapy (PDT) to kill cancer stem cells, and photobiomodulation (PBM) to stimulate normal stem cells;;978-1-6817-4320-2;;978-1-6817-4321-9
+Waves;;Fundamentals and dynamics;;978-1-6817-4572-5;;978-1-6817-4573-2
+What's the Matter with Waves?;;An introduction to techniques and applications of quantum mechanics;;978-1-6817-4578-7;;978-1-6817-4577-0
+Essential Fluid Dynamics for Scientists;;;;978-1-6817-4596-1;;978-1-6817-4597-8
+Musical Sound, Instruments, and Equipment;;;;978-1-6817-4681-4;;978-1-6817-4680-7
+Theories of Matter, Space and Time;;Classical theories;;978-1-6817-4697-5;;978-1-6817-4696-8
+Creating Materials with a Desired Refraction Coefficient;;;;978-1-6817-4709-5;;978-1-6817-4708-8
+Time and Time Again;;Determination of longitude at sea in the 17th Century;;978-0-7503-1195-3;;978-0-7503-1194-6
+Precise Dimensions;;A history of units from 1791–2018;;978-0-7503-1485-5;;978-0-7503-1487-9
+Solitons in Crystalline Processes;;Statistical thermodynamics of structural phase transitions and mesoscopic disorder;;978-0-7503-1512-8;;978-0-7503-1514-2
+How to Build a Quantum Computer;;;;;;978-0-7503-1536-4
+RF-MEMS Technology for High-Performance Passives;;The challenge of 5G mobile applications;;978-0-7503-1543-2;;978-0-7503-1545-6
+Adaptive Optics in Biology;;;;;;978-0-7503-1548-7
+Electromagnetic Waves and Lasers;;;;978-1-6817-4612-8;;978-1-6817-4613-5
+Origins of Life;;A cosmic perspective;;978-1-6817-4677-7;;978-1-6817-4676-0
+An Introduction to the Gas Phase;;;;978-1-6817-4693-7;;978-1-6817-4692-0
+Sun Protection;;A risk management approach;;978-0-7503-1378-0;;978-0-7503-1377-3
+Philosophy of Physics;;;;;;978-0-7503-1542-5
+What's Next for Particle Physics?;;;;;;978-0-7503-1620-0
+Carbon Nanotubes in Drug and Gene Delivery;;;;978-1-6817-4262-5;;978-1-6817-4261-8
+The Tai Chi in Star Formation;;;;978-1-6817-4292-2;;978-1-6817-4293-9
+Essential Mathematics for the Physical Sciences;;Volume I: Homogeneous boundary value problems, Fourier methods, and special functions;;978-1-6817-4484-1;;978-1-6817-4485-8
+The Physical Microbe;;An introduction to noise, control, and communication in the prokaryotic cell;;978-1-6817-4528-2;;978-1-6817-4529-9
+Halo Nuclei;;;;978-1-6817-4580-0;;978-1-6817-4581-7
+A Journey into Reciprocal Space;;A crystallographer's perspective;;978-1-6817-4620-3;;978-1-6817-4621-0
+Entrepreneurship for Physicists;;A practical guide to move inventions from university to market;;978-1-6817-4669-2;;978-1-6817-4668-5
+Charged Beam Dynamics, Particle Accelerators and Free Electron Lasers;;;;978-0-7503-1240-0;;978-0-7503-1239-4
+Some Critical Questions in Biological Physics;;A guided tour around the bugbears;;978-0-7503-1375-9;;978-0-7503-1374-2
+Single and Multicomponent Digital Optical Signal Analysis;;Estimation of phase and its derivatives;;978-0-7503-1467-1;;978-0-7503-1469-5
+Crystal Engineering;;How molecules build solids;;978-1-6817-4626-5;;978-1-6817-4625-8
+Quantum Chemistry (Second Edition);;A concise introduction for students of physics, chemistry, biochemistry and materials science;;978-1-6817-4636-4;;978-1-6817-4637-1
+Applied Digital Logic Exercises Using FPGAs;;;;978-1-6817-4661-6;;978-1-6817-4660-9
+An Introduction to Chemical Kinetics;;;;978-1-6817-4667-8;;978-1-6817-4664-7
+Global Oncology;;Harvard Global Health Catalyst summit lecture notes;;978-0-7503-1360-5;;978-0-7503-1359-9
+Radiative Properties of Semiconductors;;;;978-1-6817-4048-5;;978-1-6817-4112-3
+Modeling Self-Heating Effects in Nanoscale Devices;;;;978-1-6817-4059-1;;978-1-6817-4123-9
+Semiconductor Integrated Optics for Switching Light;;;;978-1-6817-4520-6;;978-1-6817-4521-3
+Design and Shielding of Radiotherapy Treatment Facilities;;IPEM Report 75, 2nd Edition;;978-0-7503-1441-1;;978-0-7503-1440-4
+Lectures on General Relativity, Cosmology and Quantum Black Holes;;;;978-0-7503-1476-3;;978-0-7503-1478-7
+Energy Storage Systems;;;;;;978-0-7503-1531-9
+Beyond Curie;;Four women in physics and their remarkable discoveries, 1903 to 1963;;978-1-6817-4644-9;;978-1-6817-4645-6
+From Particle Physics to Medical Applications;;;;;;978-0-7503-1444-2
+Quantum Simulation;;;;;;978-0-7503-1516-6
+Spiral Structure in Galaxies;;;;978-1-6817-4608-1;;978-1-6817-4609-8
+Physics and the Environment;;;;978-1-6817-4492-6;;978-1-6817-4493-3
+The Electric Dipole Moment Challenge;;;;978-1-6817-4508-4;;978-1-6817-4509-1
+The Manhattan Project;;A very brief introduction to the physics of nuclear weapons;;978-1-6817-4604-3;;978-1-6817-4605-0
+Physics of Digital Photography;;;;978-0-7503-1243-1;;978-0-7503-1242-4
+Multimessenger Astronomy;;;;;;978-0-7503-1369-8
+Lectures on Selected Topics in Mathematical Physics: Introduction to Lie Theory with Applications;;;;978-1-6817-4448-3;;978-1-6817-4449-0
+Concepts in Physical Metallurgy;;Concise lecture notes;;978-1-6817-4472-8;;978-1-6817-4473-5
+The Ringed Planet;;Cassini's voyage of discovery at Saturn;;978-1-6817-4496-4;;978-1-6817-4497-1
+Nuclear Power;;Past, present and future;;978-1-6817-4504-6;;978-1-6817-4505-3
+The Universe Untangled;;Modern physics for everyone;;978-1-6817-4512-1;;978-1-6817-4513-8
+The Physics of Thermoelectric Energy Conversion;;;;978-1-6817-4640-1;;978-1-6817-4641-8
+Extreme-Temperature and Harsh-Environment Electronics;;Physics, technology and applications;;978-0-7503-1156-4;;978-0-7503-1155-7
+Sterile Neutrino Dark Matter;;;;978-1-6817-4480-3;;978-1-6817-4481-0
+String Theory and the Real World;;;;978-1-6817-4488-9;;978-1-6817-4489-6
+An Introduction to Quantum Theory;;;;978-0-7503-1168-7;;978-0-7503-1167-0
+The Dark Universe;;;;;;978-0-7503-1373-5
+Outside the Research Lab, Volume 1;;Physics in the arts, architecture and design;;978-1-6817-4468-1;;978-1-6817-4469-8
+Electrostatic Phenomena on Planetary Surfaces;;;;978-1-6817-4476-6;;978-1-6817-4477-3
+Quantitative Finance;;;;;;978-0-7503-1368-1
+Proton Beam Therapy;;;;;;978-0-7503-1370-4
+Complex Light;;;;;;978-0-7503-1371-1
+Space Weather;;;;;;978-0-7503-1372-8
+Composite Materials;;Mathematical theory and exact relations;;978-0-7503-1049-9;;978-0-7503-1048-2
+Principles of Lightning Physics;;;;;;978-0-7503-1152-6
+Plasma Modeling;;Methods and Applications;;978-0-7503-1201-1;;978-0-7503-1200-4
+Ahead of the Curve;;Hidden breakthroughs in the biosciences;;978-0-7503-1327-8;;978-0-7503-1326-1
+Mechatronics;;Dynamical systems approach and theory of holors;;978-0-7503-1351-3;;978-0-7503-1350-6
+The Melencolia Manifesto;;;;978-1-6817-4026-3;;978-1-6817-4090-4
+An Introduction to Quantum Monte Carlo Methods;;;;978-1-6817-4045-4;;978-1-6817-4109-3
+Biophysics of the Senses;;;;978-1-6817-4047-8;;978-1-6817-4111-6
+Graphene Optics: Electromagnetic Solution of Canonical Problems;;;;978-1-6817-4308-0;;978-1-6817-4309-7
+Confocal Microscopy;;;;978-1-6817-4336-3;;978-1-6817-4337-0
+Understanding Sonoluminescence;;;;978-1-6817-4364-6;;978-1-6817-4365-3
+A Tour of the Subatomic Zoo (Third edition);;A guide to particle physics;;978-1-6817-4422-3;;978-1-6817-4421-6
+Understanding the Magic of the Bicycle;;Basic scientific explanations to the two-wheeler's mysterious and fascinating behavior;;978-1-6817-4440-7;;978-1-6817-4441-4
+Physics is ...;;The Physicist explores attributes of physics;;978-1-6817-4444-5;;978-1-6817-4445-2
+Sound-Power Flow;;A practitioner's handbook for sound intensity;;978-1-6817-4452-0;;978-1-6817-4453-7
+Optical Nanomanipulation;;;;978-1-6817-4464-3;;978-1-6817-4465-0
+Low Frequency Waves and Turbulence in Magnetized Laboratory Plasmas and in the Ionosphere;;;;978-0-7503-1252-3;;978-0-7503-1251-6
+Advanced Numerical and Theoretical Methods for Photonic Crystals and Metamaterials;;;;978-1-6817-4300-4;;978-1-6817-4301-1
+Electromagnetism;;Problems and solutions;;978-1-6817-4428-5;;978-1-6817-4429-2
+A Guided Tour of Light Beams;;From lasers to optical knots;;978-1-6817-4436-0;;978-1-6817-4437-7
+A Pedagogical Introduction to Electroweak Baryogenesis;;;;978-1-6817-4456-8;;978-1-6817-4457-5
+Excel® VBA for Physicists;;A Primer;;978-1-6817-4460-5;;978-1-6817-4461-2
+The Foundations of Electric Circuit Theory;;;;978-0-7503-1267-7;;978-0-7503-1266-0
+Random Telegraph Signals in Semiconductor Devices;;;;978-0-7503-1273-8;;978-0-7503-1272-1
+The Physics and Mathematics of MRI;;;;978-1-6817-4004-1;;978-1-6817-4068-3
+Mitigation of Cancer Therapy Side-Effects with Light;;;;978-1-6817-4011-9;;978-1-6817-4075-1
+A Handbook of Mathematical Methods and Problem-Solving Tools for Introductory Physics;;;;978-1-6817-4280-9;;978-1-6817-4281-6
+Computational Approaches in Physics;;;;978-1-6817-4416-2;;978-1-6817-4417-9
+Exploring Physics with Computer Animation and PhysGL;;;;978-1-6817-4424-7;;978-1-6817-4425-4
+Quantifying Measurement;;The tyranny of numbers;;978-1-6817-4432-2;;978-1-6817-4433-9
+Effective Science Communication;;A practical guide to surviving as a scientist;;978-0-7503-1171-7;;978-0-7503-1170-0
+Advanced Digital Imaging Laboratory Using MATLAB® (Second edition);;;;978-0-7503-1234-9;;978-0-7503-1233-2
+Fluids in Porous Media;;Transport and phase changes;;978-1-6817-4296-0;;978-1-6817-4297-7
+Extragalactic Astrophysics;;;;978-1-6817-4408-7;;978-1-6817-4409-4
+Essential Classical Mechanics for Device Physics;;;;978-1-6817-4412-4;;978-1-6817-4413-1
+Liquid Dielectrics in an Inhomogeneous Pulsed Electric Field;;;;978-0-7503-1246-2;;978-0-7503-1245-5
+Digital Informatics and Isotopic Biology;;Self-organization and isotopically diverse systems in physics, biology and technology;;978-0-7503-1294-3;;978-0-7503-1293-6
+Butterfly in the Quantum World;;The story of the most fascinating quantum fractal;;978-1-6817-4053-9;;978-1-6817-4117-8
+Searching for Dark Matter with Cosmic Gamma Rays;;;;978-1-6817-4268-7;;978-1-6817-4269-4
+One Physicist's Guide to Nuclear Weapons;;A global perspective;;978-0-7503-1309-4;;978-0-7503-1308-7
+Synchrotron Radiation;;An everyday application of special relativity;;978-1-6817-4051-5;;978-1-6817-4115-4
+Nuclear Materials Science;;;;978-0-7503-1105-2;;978-0-7503-1104-5
+Discharge in Long Air Gaps;;Modelling and applications;;978-0-7503-1237-0;;978-0-7503-1236-3
+Earthquakes;;The sound of multi-modal waves;;978-1-6817-4328-8;;978-1-6817-4329-5
+Selective Photonic Disinfection;;A ray of hope in the war against pathogens;;978-1-6817-4352-3;;978-1-6817-4353-0
+Technical Fundamentals of Radiology and CT;;;;978-0-7503-1213-4;;978-0-7503-1212-7
+Physics and Video Analysis;;;;978-1-6817-4003-4;;978-1-6817-4067-6
+Fourier Ptychographic Imaging;;A MATLAB® tutorial;;978-1-6817-4272-4;;978-1-6817-4273-1
+Balancing Green Power;;How to deal with variable energy sources;;978-0-7503-1231-8;;978-0-7503-1230-1
+Single Molecule Biophysics and Poisson Process Approach to Statistical Mechanics;;;;978-1-6817-4052-2;;978-1-6817-4116-1
+Antimicrobial Photodynamic Inactivation and Antitumor Photodynamic Therapy with Fullerenes;;;;978-1-6817-4183-3;;978-1-6817-4247-2
+Women and Physics;;;;978-1-6817-4276-2;;978-1-6817-4277-9
+Explicit Symmetry Breaking in Electrodynamic Systems and Electromagnetic Radiation;;;;978-1-6817-4356-1;;978-1-6817-4357-8
+Searching for Habitable Worlds;;An Introduction;;978-1-6817-4400-1;;978-1-6817-4401-8
+Physics of Surface, Interface and Cluster Catalysis;;;;978-0-7503-1165-6;;978-0-7503-1164-9
+Emerging Models for Global Health in Radiation Oncology;;;;978-0-7503-1225-7;;978-0-7503-1224-0
+A Practical Introduction to Beam Physics and Particle Accelerators;;;;978-1-6817-4012-6;;978-1-6817-4076-8
+Electromagnetics in Magnetic Resonance Imaging;;Physical Principles, Related Applications, and Ongoing Developments;;978-1-6817-4019-5;;978-1-6817-4083-6
+The Midlife Crisis of the Nuclear Nonproliferation Treaty;;;;978-1-6817-4388-2;;978-1-6817-4389-9
+Biophotonics: Vibrational Spectroscopic Diagnostics;;;;978-1-6817-4007-2;;978-1-6817-4071-3
+Hadronic Jets;;An introduction;;978-1-6817-4009-6;;978-1-6817-4073-7
+Student Attitudes, Student Anxieties, and How to Address Them;;A handbook for science teachers;;978-1-6817-4264-9;;978-1-6817-4265-6
+Magnetic Excitations and Geometric Confinement;;Theory and simulations;;978-0-7503-1075-8;;978-0-7503-1074-1
+Inverse Modeling;;An introduction to the theory and methods of inverse problems and data assimilation;;978-0-7503-1219-6;;978-0-7503-1218-9
+The Search and Discovery of the Higgs Boson;;A brief introduction to particle physics;;978-1-6817-4014-0;;978-1-6817-4078-2
+Capture and Relaxation in Self-Assembled Semiconductor Quantum Dots;;The dot and its environment;;978-1-6817-4025-6;;978-1-6817-4089-8
+Computation in Science;;;;978-1-6817-4029-4;;978-1-6817-4093-5
+After the War: Women in Physics in the United States;;;;978-1-6817-4030-0;;978-1-6817-4094-2
+Discrete Quantum Mechanics;;;;978-1-6817-4061-4;;978-1-6817-4125-3
+Networks on Networks;;The physics of geobiology and geochemistry;;978-1-6817-4031-7;;978-1-6817-4159-8
+Lectures on Selected Topics in Mathematical Physics: Elliptic Functions and Elliptic Integrals;;;;978-1-6817-4166-6;;978-1-6817-4230-4
+An Introduction to the Formalism of Quantum Information with Continuous Variables;;;;978-1-6817-4404-9;;978-1-6817-4405-6
+The Embedding Method for Electronic Structure;;;;978-0-7503-1043-7;;978-0-7503-1042-0
+Dynamical Properties in Nanostructured and Low-Dimensional Materials;;;;978-0-7503-1055-0;;978-0-7503-1054-3
+Quantum Mechanics;;;;978-0-7503-1207-3;;978-0-7503-1206-6
+Elementary Cosmology: From Aristotle's Universe to the Big Bang and Beyond;;;;978-1-6817-4036-2;;978-1-6817-4100-0
+Structure and Evolution of Single Stars;;An introduction;;978-1-6817-4041-6;;978-1-6817-4105-5
+Smart External Stimulus-Responsive Nanocarriers for Drug and Gene Delivery;;;;978-1-6817-4138-3;;978-1-6817-4202-1
+Order from Force;;A natural history of the vacuum;;978-1-6817-4177-2;;978-1-6817-4241-0
+Physics of the Lorentz Group;;;;978-1-6817-4190-1;;978-1-6817-4254-0
+Smart Internal Stimulus-Responsive Nanocarriers for Drug and Gene Delivery;;;;978-1-6817-4256-4;;978-1-6817-4257-1
+Key Nuclear Reaction Experiments;;Discoveries and consequences;;978-0-7503-1174-8;;978-0-7503-1173-1
+Quantum Statistical Mechanics;;Equilibrium and non-equilibrium theory from first principles;;978-0-7503-1189-2;;978-0-7503-1188-5
+Organ Printing;;;;978-1-6817-4015-7;;978-1-6817-4079-9
+Introduction to Focused Ion Beam Nanometrology;;;;978-1-6817-4020-1;;978-1-6817-4084-3
+An Introduction to Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS) and its Application to Materials Science;;;;978-1-6817-4024-9;;978-1-6817-4088-1
+Physics of Cancer;;;;978-0-7503-1135-9;;978-0-7503-1134-2
+Infrared Imaging;;A casebook in clinical medicine;;978-0-7503-1144-1;;978-0-7503-1143-4
+Nonlinear Optics of Photonic Crystals and Meta-Materials;;;;978-1-6817-4043-0;;978-1-6817-4107-9
+Dark Matter in the Universe;;;;978-1-6817-4054-6;;978-1-6817-4118-5
+Nanometrology Using the Transmission Electron Microscope;;;;978-1-6817-4056-0;;978-1-6817-4120-8
+Classical Field Theory and the Stress-Energy Tensor;;;;978-1-6817-4057-7;;978-1-6817-4121-5
+Transport in Semiconductor Mesoscopic Devices;;;;978-0-7503-1102-1;;978-0-7503-1103-8
+Evolutionary Dynamics;;The mathematics of genes and traits;;978-0-7503-1095-6;;978-0-7503-1094-9
+Kinematic Labs with Mobile Devices;;;;978-1-6270-5627-4;;978-1-6270-5628-1
+Modern Analytical Electromagnetic Homogenization;;;;978-1-6270-5426-3;;978-1-6270-5427-0
+Python and Matplotlib Essentials for Scientists and Engineers;;;;978-1-6270-5619-9;;978-1-6270-5620-5
+Atoms and Photons and Quanta, Oh My!;;Ask the physicist about atomic, nuclear, and quantum physics;;978-1-6270-5938-1;;978-1-6270-5939-8
+Atomic Bomb: The Story of the Manhattan Project;;How nuclear physics became a global geopolitical game-changer;;978-1-6270-5990-9;;978-1-6270-5991-6
+Nuclear and Particle Physics;;;;978-0-7503-1141-0;;978-0-7503-1140-3
+Designing Hybrid Nanoparticles;;;;978-1-6270-5468-3;;978-1-6270-5469-0
+Quantitative Core Level Photoelectron Spectroscopy;;A primer;;978-1-6270-5305-1;;978-1-6270-5306-8
+Advanced Tokamak Stability Theory;;;;978-1-6270-5422-5;;978-1-6270-5423-2
+Skin Photoaging;;;;978-1-6270-5454-6;;978-1-6270-5455-3
+Visual Astronomy;;A guide to understanding the night sky;;978-1-6270-5480-5;;978-1-6270-5481-2
+3D Scientific Visualization with Blender®;;;;978-1-6270-5611-3;;978-1-6270-5612-0
+Relativity, Symmetry and the Structure of Quantum Theory, Volume 1;;Galilean quantum theory;;978-1-6270-5623-6;;978-1-6270-5624-3
+The Everyday Physics of Hearing and Vision;;;;978-1-6270-5674-8;;978-1-6270-5675-5
+SMath for Physics;;A primer;;978-1-6270-5924-4;;978-1-6270-5925-1
+New Technologies for Smart Grid Operation;;;;978-0-7503-1159-5;;978-0-7503-1158-8
+Symmetry and Collective Fluctuations in Evolutionary Games;;;;978-0-7503-1138-0;;978-0-7503-1137-3
+Nanoscopic Electrofocusing for Bio-Nanoelectronic Devices;;;;978-1-6270-5428-7;;978-1-6270-5429-4
+Scientific Basis of the Royal College of Radiologists Fellowship;;Illustrated questions and answers;;978-0-7503-1059-8;;978-0-7503-1058-1
+An Introduction to Elementary Particle Phenomenology;;;;978-0-7503-1073-4;;978-0-7503-1072-7
+Liquid Crystals through Experiments;;;;978-1-6270-5299-3;;978-1-6270-5300-6
+The Tao of Microelectronics;;;;978-1-6270-5452-2;;978-1-6270-5453-9
+From Newton to Einstein;;Ask the physicist about mechanics and relativity;;978-1-6270-5496-6;;978-1-6270-5497-3
+Classical Theory of Free-Electron Lasers;;A text for students and researchers;;978-1-6270-5572-7;;978-1-6270-5573-4
+Analysis of the Alkali Metal Diatomic Spectra;;Using molecular beams and ultracold molecules;;978-1-6270-5677-9;;978-1-6270-5678-6
+Physics of the Atmosphere;;;;978-0-7503-1053-6;;978-0-7503-1052-9
+Introduction to the Physics of the Cryosphere;;;;978-1-6270-5302-0;;978-1-6270-5303-7
+Motions of Celestial Bodies;;Computer simulations;;978-0-750-31101-4;;978-0-750-31100-7
+Modelling Physics with Microsoft Excel®;;;;978-1-627-05418-8;;978-1-627-05419-5
+A Short Course on Relativistic Heavy Ion Collisions;;;;978-0-750-31061-1;;978-0-750-31060-4
+Ultrafast Spectroscopy;;Quantum information and wavepackets;;978-0-750-31063-5;;978-0-750-31062-8
+Molecular Photophysics and Spectroscopy;;;;978-1-627-05287-0;;978-1-627-05288-7
+Advances in Thermodynamics of the van der Waals Fluid;;;;978-1-627-05531-4;;978-1-627-05532-1
+Principles and Applications of Fourier Optics;;;;978-0-750-31057-4;;978-0-750-31056-7
+Advanced Digital Imaging Laboratory Using MATLAB®;;;;978-0-750-31051-2;;978-0-750-31050-5
+Advanced Solid State Theory;;;;978-1-627-05327-3;;978-1-627-05328-0
+AdS/CFT Correspondence in Condensed Matter;;;;978-1-627-05308-2;;978-1-627-05309-9
+Quantum Information in Gravitational Fields;;;;978-1-627-05329-7;;978-1-627-05330-3
+Quantum Chemistry;;A concise introduction for students of physics, chemistry, biochemistry and materials science;;978-1-627-05417-1;;978-1-627-05416-4
+Introduction to the Mathematical Physics of Nonlinear Waves;;;;978-1-627-05275-7;;978-1-627-05276-4
+Defining and Measuring Nature;;The make of all things;;978-1-627-05278-8;;978-1-627-05279-5
+Guide Through the Nanocarbon Jungle;;Buckyballs, nanotubes, graphene and beyond;;978-1-627-05272-6;;978-1-627-05273-3
+Renewables;;A review of sustainable energy supply options;;978-0-750-31041-3;;978-0-750-31040-6
+Semiconductors;;Bonds and bands;;978-0-750-31045-1;;978-0-750-31044-4
