@@ -44,8 +44,8 @@ async function crawlPages(startUrl, page) {
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForSelector('.pagination-bottom-outer-wrap');
         await page.waitForTimeout(3000);
+        await page.waitForSelector('.pagination-bottom-outer-wrap');
 
     }
 

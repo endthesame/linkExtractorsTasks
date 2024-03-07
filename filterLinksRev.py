@@ -1,6 +1,6 @@
-file1 = 'worldsc/journals/1rev_worldsc_journals.txt'
-file2 = 'worldsc/journals/found_links_worldsc_journals.txt'
-output_file = 'worldsc/journals/filteredLinksNotCrawled.txt'
+file1 = 'worldsc/journals/found_links_worldsc_journals.txt'
+file2 = 'worldsc/journals/recrawl_links.txt'
+output_file = 'worldsc/journals/filteredLinksNotCrawledTEST.txt'
 
 # Чтение ссылок из файлов
 with open(file1, 'r') as f1, open(file2, 'r') as f2:

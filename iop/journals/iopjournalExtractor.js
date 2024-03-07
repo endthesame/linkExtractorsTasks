@@ -23,12 +23,12 @@ async function crawlPages(startUrl) {
         height: 720,
         deviceScaleFactor: 1,
       });
-    await page.goto(startUrl, { waitUntil: 'networkidle0', timeout: 50000 });
+    await page.goto(startUrl, { waitUntil: 'domcontentloaded', timeout: 50000 });
 
-    await page.waitForTimeout(25000);
+    await page.waitForTimeout(35000);
 
     try{
-        await page.click('#latestVolumeIssues', { waitUntil: 'networkidle0' });
+        await page.click('#latestVolumeIssues', { waitUntil: 'networkidle2' });
     } catch (error) {
         console.log(`Failed to click the volume button. Error: ${error.message}`);
     }
@@ -54,7 +54,7 @@ async function crawlPages(startUrl) {
         // Кликаем на кнопку paging__btn--next
         try {
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.mr-1', { waitUntil: 'networkidle0' });
+            await page.click('.mr-1', { waitUntil: 'domcontentloaded' });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
             break; // если не удалось кликнуть, выход из цикла

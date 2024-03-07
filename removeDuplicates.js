@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'worldsc/journals/found_links_worldsc_journals.txt';
-const outputFile = 'worldsc/journals/found_links_worldsc_journals.txt';
+const inputFile = 'worldsc/journals/recrawl_links.txt';
+const outputFile = 'worldsc/journals/recrawl_links.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
