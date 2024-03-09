@@ -22,6 +22,8 @@ async function crawlPages(startUrl) {
     let currentPage = 1;
 
     while (true) {
+        let linkPage = await page.url();
+        console.log(`Current page: ${linkPage}`)
         const contentLinks = await extractLinks(page);
         
         fs.appendFileSync('found_links_acs.txt', contentLinks.join('\n') + '\n');
@@ -44,7 +46,7 @@ async function crawlPages(startUrl) {
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
         await page.waitForSelector(".niHeader_about-meta");
-        await page.waitForTimeout(8000);
+        await page.waitForTimeout(3000);
 
         currentPage++;
     }
