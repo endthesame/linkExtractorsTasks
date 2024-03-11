@@ -41,11 +41,12 @@ async function crawlPages(startUrl) {
     let currentPage = 1;
 
     while (true) {
+        let curLink = await page.url();
         await page.waitForSelector("#toc");
         const contentLinks = await extractLinks(page);
 
         fs.appendFileSync('found_links_edp_journals_another.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
+        console.log(`Links from Page ${currentPage}: ${curLink} have been saved to found_links.txt!`);
 
         if(!isPrevAvailable){
             console.log("No prev. issue found")

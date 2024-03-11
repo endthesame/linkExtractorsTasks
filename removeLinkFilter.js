@@ -2,12 +2,12 @@ const fs = require('fs');
 
 
 // Чтение данных
-const file = fs.readFileSync('iop/books/found_links_iop_books.txt', 'utf8').split('\n');
+const file = fs.readFileSync('acs/journals/found_links_acsFILTERED.txt', 'utf8').split('\n');
 
 // Фильтрация ссылок
-const filteredLinks = file.filter(link => !link.includes(".pdf"));
+const filteredLinks = file.filter(link => !link.includes("adclick.g.doubleclick"));
 
 // Запись отфильтрованных ссылок в новый файл
-fs.writeFileSync('iop/books/found_links_iop_books.txt', filteredLinks.join('\n'), 'utf8');
+fs.writeFileSync('acs/journals/found_links_acsFILTERED.txt', filteredLinks.join('\n'), 'utf8');
 
 console.log('Файл filteredLinks.txt успешно создан');
