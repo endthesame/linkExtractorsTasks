@@ -25,7 +25,7 @@ async function crawlPages(startUrl, page) {
         console.log("cookie no need to accept");
     }
 
-    let currentPage = 1;
+    let currentPage = 14885;
 
     for(currentPage; currentPage < 19431; currentPage++) {
         //await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'networkidle2', timeout: 120000 })
@@ -45,7 +45,7 @@ async function crawlPages(startUrl, page) {
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
         await page.waitForTimeout(3000);
-        await page.waitForSelector('.pagination-bottom-outer-wrap');
+        //await page.waitForSelector('.pagination-bottom-outer-wrap');
 
     }
 
@@ -54,7 +54,7 @@ async function crawlPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1280, height: 720 });
 

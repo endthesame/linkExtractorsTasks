@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'acs/journals/found_links_acsFILTERED.txt';
-const outputFile = 'acs/journals/found_links_acsFILTERED.txt';
+const inputFile = 'edp/journals/found_links_edp_journals_another.txt';
+const outputFile = 'edp/journals/found_links_edp_journals_another.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
