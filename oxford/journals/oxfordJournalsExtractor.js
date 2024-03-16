@@ -13,6 +13,18 @@ async function extractLinks(page) {
     });
 }
 
+async function isLastIssuePage(page) {
+    return await page.evaluate(() => {
+        let endPage = false;
+        let listOfPrevClasses = Array.from(document.querySelector(".issue-link--prev ").classList).map(elem => {
+            if (elem == "invisible"){
+                endPage = true;
+            }
+        })
+        return endPage;
+    });
+}
+
 async function getLatestIssueLink(page) {
     return await page.evaluate(() => {
         let latestIssue = document.querySelector('.currentIssue .widget-IssueInfo__link')? document.querySelector('.currentIssue .widget-IssueInfo__link').href : "";
@@ -57,6 +69,11 @@ async function crawlPages(startUrl) {
         let currentPageUrl = await page.url();
         fs.appendFileSync('found_links_oxford_journals.txt', contentLinks.join('\n') + '\n');
         console.log(`Links from Page ${currentPageUrl} have been saved to found_links.txt!`);
+
+        let isLastPage = await isLastIssuePage(page)
+        if (isLastPage){
+            break;
+        }
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.issue-link--prev ');
