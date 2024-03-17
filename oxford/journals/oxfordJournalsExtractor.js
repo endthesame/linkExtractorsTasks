@@ -35,7 +35,7 @@ async function getLatestIssueLink(page) {
 async function crawlPages(startUrl) {
     const browser = await puppeteer.launch({
         //args: ['--proxy-server=127.0.0.1:8118'],
-        headless: 'new', //'new' for "true mode" and false for "debug mode (Browser open))"
+        headless: false, //'new' for "true mode" and false for "debug mode (Browser open))"
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
     const page = await browser.newPage();
@@ -46,14 +46,14 @@ async function crawlPages(startUrl) {
       });
     await page.goto(startUrl, { waitUntil: 'networkidle0', timeout: 50000 });
 
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(10000);
     
     let latestIssue = await getLatestIssueLink(page);
     if (latestIssue == ""){
         let currentPageUrl = await page.url();
         fs.appendFileSync('no_links_journals.txt', currentPageUrl + '\n');
         console.log(`Links from Page ${currentPageUrl} have been saved to found_links.txt!`);
-        return;
+        //return;
     } else {
         await page.goto(latestIssue, { waitUntil: 'networkidle0', timeout: 50000 });
     }
@@ -100,7 +100,7 @@ async function crawlPages(startUrl) {
 }
 
 async function main() {
-    const sourceLinksPath = 'links_to_journals.txt';
+    const sourceLinksPath = 'links_to_journals_current.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
 
     // Итерация по ссылкам из файла
