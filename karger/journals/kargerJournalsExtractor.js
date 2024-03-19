@@ -25,26 +25,28 @@ async function crawlPages(startUrl, page) {
         console.log("cookie no need to accept");
     }
 
-    let currentPage = 14885;
+    let currentPage = 6161;
 
-    for(currentPage; currentPage < 19431; currentPage++) {
+    for(currentPage; currentPage < 19448; currentPage++) {
+        let currentUrl = await page.url();
         //await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'networkidle2', timeout: 120000 })
         var rawLinks = await extractLinks(page);
         const contentLinks = Array.from(new Set([...rawLinks]));
 
         fs.appendFileSync('found_links_karger_journals.txt', contentLinks.join('\n') + '\n');
+        console.log(`Current Page ${currentUrl}`);
         console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
 
         try {
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.pagination-bottom-outer-wrap > div > .al-nav-next', { waitUntil: 'domcontentloaded', timeout: 50000 });
+            await page.click('.pagination-bottom-outer-wrap > div > .al-nav-next', { waitUntil: 'networkidle2', timeout: 50000 });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
-            await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Journal+Articles&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'domcontentloaded', timeout: 50000 })
+            await page.goto(currentUrl, { waitUntil: 'domcontentloaded', timeout: 50000 })
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForTimeout(3000);
+        await page.waitForTimeout(4000);
         //await page.waitForSelector('.pagination-bottom-outer-wrap');
 
     }

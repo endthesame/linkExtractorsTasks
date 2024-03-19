@@ -1,0 +1,19 @@
+Tutorials in Operations Research: Advancing the Frontiers of OR/MS: From Methodologies to Applications;;Tutorials in Operations Research;;978-0-9882856-1-8;;320
+Tutorials in Operations Research: Emerging and Impactful Topics in Operations;;Tutorials in Operations Research;;978-0-9906153-7-8;;234
+Emerging Optimization Methods and Modeling Techniques with Applications;;Tutorials in Operations Research;;978-0-9906153-5-4;;350
+Pushing the Boundaries: Frontiers in Impactful OR/OM Research;;Tutorials in Operations Research;;978-0-9906153-4-7;;231
+Operations Research & Management Science in the Age of Analytics;;Tutorials in Operations Research;;978-0-9906153-3-0;;275
+Recent Advances in Optimization and Modeling of Contemporary Problems;;Tutorials in Operations Research;;978-0-9906153-2-3;;360
+Leading Developments from INFORMS Communities;;Tutorials in Operations Research;;978-0-9906153-0-9;;316
+Optimization Challenges in Complex, Networked and Risky Systems;;Tutorials in Operations Research;;978-0-9843378-9-7;;392
+The Operations Research Revolution;;Tutorials in Operations Research;;978-0-9843378-8-0;;142
+Bridging Data and Decisions;;Tutorials in Operations Research;;978-0-9843378-5-9;;252
+Theory Driven by Influential Applications;;Tutorials in Operations Research;;978-0-9843378-4-2;;235
+New Directions in Informatics, Optimization, Logistics, and Production;;Tutorials in Operations Research;;978-0-9843378-3-5;;221
+Transforming Research into Action;;Tutorials in Operations Research;;978-0-9843378-2-8;;161
+Risk and Optimization in an Uncertain World;;Tutorials in Operations Research;;978-0-9843378-0-4;;275
+Decision Technologies and Applications;;Tutorials in Operations Research;;978-1-877640-24-7;;226
+State-of-the-Art Decision-Making Tools in the Information-Intensive Age;;Tutorials in Operations Research;;978-1-877640-23-0;;350
+OR Tools and Applications: Glimpses of Future Technologies;;Tutorials in Operations Research;;978-1-877640-22-3;;189
+Models, Methods, and Applications for Innovative Decision Making;;Tutorials in Operations Research;;978-1-877640-20-9;;271
+Emerging Theory, Methods, and Applications;;Tutorials in Operations Research;;1-877640-21-2;;292
