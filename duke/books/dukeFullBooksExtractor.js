@@ -55,7 +55,7 @@ async function crawlPages(startUrl) {
 }
 
 async function main() {
-    const sourceLinksPath = 'links_to_crawl.txt';
+    const sourceLinksPath = 'links_to_crawl_fullbooks.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
 
     // Итерация по ссылкам из файла
