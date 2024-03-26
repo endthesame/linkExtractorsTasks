@@ -11,24 +11,25 @@ async function extractLinks(page) {
 }
 
 async function crawlPages(startUrl) {
-    const browser = await puppeteer.launch({ headless:'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless:false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({
         width: 1400,
         height: 800,
         deviceScaleFactor: 1,
       });
-    await page.goto(startUrl, { waitUntil: 'networkidle0', timeout: 50000 });
+    await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 50000 });
 
     await page.waitForTimeout(3000);
 
     let currentPage = 1;
 
     while (true) {
+        let currUrl = page.url();
         const contentLinks = await extractLinks(page);
 
-        fs.appendFileSync('found_links_duke_books.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
+        fs.appendFileSync('found_links_duke_chapters_24_03.txt', contentLinks.join('\n') + '\n');
+        console.log(`Links from Page ${currUrl} crawled; links count: ${contentLinks.length}`);
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.pagination-bottom-outer-wrap .sr-nav-next');
@@ -39,7 +40,7 @@ async function crawlPages(startUrl) {
         // Кликаем на кнопку paging__btn--next
         try {
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.pagination-bottom-outer-wrap .sr-nav-next', { waitUntil: 'networkidle0', timeout: 50000 });
+            await page.click('.pagination-bottom-outer-wrap .sr-nav-next', { waitUntil: 'networkidle2', timeout: 50000 });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
             break; // если не удалось кликнуть, выход из цикла

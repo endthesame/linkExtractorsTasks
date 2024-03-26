@@ -1,6 +1,6 @@
-file1 = 'edp/journals/edp_crawled.txt'
-file2 = 'edp/journals/found_links_edp_journals_another.txt'
-output_file = 'edp/journals/not_crawled_another.txt'
+file1 = 'duke/books/crawled_24_03.txt'
+file2 = 'duke/books/found_links_duke_chapters_24_03.txt'
+output_file = 'duke/books/now_crawled_24_03.txt'
 
 # Чтение ссылок из файлов
 with open(file1, 'r') as f1, open(file2, 'r') as f2:
