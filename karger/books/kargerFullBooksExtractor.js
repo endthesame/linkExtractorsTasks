@@ -14,7 +14,7 @@ async function extractLinks(page) {
 async function crawlPages(startUrl, page) {
     await page.goto(startUrl, { waitUntil: 'domcontentloaded', timeout: 50000 });
 
-    await page.waitForTimeout(10000);
+    await page.waitForTimeout(15000);
 
     try{
         await page.click('.cmpboxbtn', { waitUntil: 'domcontentloaded', timeout: 50000 });
@@ -30,21 +30,21 @@ async function crawlPages(startUrl, page) {
         //await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'networkidle2', timeout: 120000 })
         var rawLinks = await extractLinks(page);
         const contentLinks = Array.from(new Set([...rawLinks]));
-
+        let currUrl = page.url();
         fs.appendFileSync('found_links_karger_fullbooks.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
-
+        console.log(`Links from Page ${currUrl}; links length: ${contentLinks.length}`);
         try {
+            await page.waitForSelector('.book_link');
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.pagination-bottom-outer-wrap > div > .al-nav-next', { waitUntil: 'domcontentloaded', timeout: 50000 });
+            await page.click('.pagination-bottom-outer-wrap > div > .al-nav-next', { waitUntil: 'networkidle2', timeout: 50000 });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
-            await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'domcontentloaded', timeout: 50000 })
+            await page.goto(currUrl, { waitUntil: 'networkidle2', timeout: 50000 })
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForSelector('.pagination-bottom-outer-wrap');
-        await page.waitForTimeout(3000);
+        await page.waitForSelector('#ContentColumn');
+        await page.waitForTimeout(4000);
 
     }
 
@@ -53,7 +53,7 @@ async function crawlPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl_fullbooks.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1280, height: 720 });
 
