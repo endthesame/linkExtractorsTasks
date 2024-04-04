@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'bentham/books/found_links_bentham_fullbooks.txt';
-const outputFile = 'bentham/books/found_links_bentham_fullbooks.txt';
+const inputFile = 'karger/books/found_links_karger_fullbooks2.txt';
+const outputFile = 'karger/books/found_links_karger_fullbooks2.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {

@@ -26,12 +26,12 @@ async function crawlPages(startUrl, page) {
 
     let currentPage = 1;
 
-    for(currentPage; currentPage < 350; currentPage++) {
+    for(currentPage; currentPage < 360; currentPage++) {
         //await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'networkidle2', timeout: 120000 })
         var rawLinks = await extractLinks(page);
         const contentLinks = Array.from(new Set([...rawLinks]));
         let currUrl = page.url();
-        fs.appendFileSync('found_links_karger_fullbooks.txt', contentLinks.join('\n') + '\n');
+        fs.appendFileSync('found_links_karger_fullbooks2.txt', contentLinks.join('\n') + '\n');
         console.log(`Links from Page ${currUrl}; links length: ${contentLinks.length}`);
         try {
             await page.waitForSelector('.book_link');
