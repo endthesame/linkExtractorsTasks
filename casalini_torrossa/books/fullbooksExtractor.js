@@ -76,6 +76,7 @@ async function crawlPages(startUrl, page) {
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
+        await page.waitForSelector('.uk-article')
         await page.waitForTimeout(4000);
     }
 
@@ -84,7 +85,7 @@ async function crawlPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl_fullbooks.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1280, height: 720 });
 
