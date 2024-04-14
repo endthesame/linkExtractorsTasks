@@ -1,0 +1,6 @@
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:api
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:bpi
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:cpi
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:dpi
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:epi
+https://www.torrossa.com/en/search/?rows=1000&sort=score%20desc,%20pub_date_sort%20desc,%20title_sort%20desc&start=0&page=0&fq_[0]=bibliographic_level:ar&fq[0]=bibliographic_level:ar&fq[]=pub_date_interval:fpi
