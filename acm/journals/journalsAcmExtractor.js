@@ -21,6 +21,7 @@ async function crawlPages(startUrl) {
     let currentPage = 1;
 
     while (true) {
+        let currUrl = page.url();
         const contentLinks = await extractLinks(page);
         
         // if (contentLinks.length === 0) {
@@ -28,7 +29,7 @@ async function crawlPages(startUrl) {
         // }
 
         fs.appendFileSync('found_links_acm_journals.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
+        console.log(`Links from Page ${currentPage} and url: ${currUrl}: count: ${contentLinks.length}`);
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.content-navigation__btn--pre');
