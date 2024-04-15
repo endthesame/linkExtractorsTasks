@@ -22,7 +22,7 @@ async function crawlPages(startUrl) {
 
     while (true) {
         let currUrl = page.url();
-        const contentLinks = await extractLinks(page);
+        let contentLinks = await extractLinks(page);
         
         if (contentLinks.length === 0) {
             await page.goto(currUrl, { waitUntil: 'networkidle0', timeout: 50000 });
