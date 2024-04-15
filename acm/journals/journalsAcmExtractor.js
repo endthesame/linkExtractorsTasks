@@ -24,9 +24,11 @@ async function crawlPages(startUrl) {
         let currUrl = page.url();
         const contentLinks = await extractLinks(page);
         
-        // if (contentLinks.length === 0) {
-        //     break; // нет ссылок, выход из цикла
-        // }
+        if (contentLinks.length === 0) {
+            await page.goto(currUrl, { waitUntil: 'networkidle0', timeout: 50000 });
+            console.log("0 links: restart url") // нет ссылок
+            contentLinks = await extractLinks(page);
+        }
 
         fs.appendFileSync('found_links_acm_journals.txt', contentLinks.join('\n') + '\n');
         console.log(`Links from Page ${currentPage} and url: ${currUrl}: count: ${contentLinks.length}`);
