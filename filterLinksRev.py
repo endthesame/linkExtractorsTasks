@@ -1,6 +1,6 @@
-file1 = 'edp/journals/filteredLinksNotCrawled.txt'
-file2 = 'edp/journals/found_links_edp_journals.txt'
-output_file = 'edp/journals/recrawl_old.txt'
+file1 = 'acm/journals/found_links_acm_journals.txt'
+file2 = 'acm/journals/articles_recrawl_test.txt'
+output_file = 'acm/journals/diff_btw_1rev_and_2nd.txt'
 
 # Чтение ссылок из файлов
 with open(file1, 'r') as f1, open(file2, 'r') as f2:
