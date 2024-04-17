@@ -11,15 +11,19 @@ async function extractInfo(page) {
         if (mf_issn == ""){
             document.querySelector('.uk-accordion-content')? document.querySelector('.uk-accordion-content').innerText.match(/ISSN: (\d+-\d+[a-zA-Z]+?)/)? document.querySelector('.uk-accordion-content').innerText.match(/ISSN: (\d+-\d+[a-zA-Z]+?)/)[1] : "" : "";
         }
-        return `${mf_journal};;${mf_issn}`
+        return [mf_journal, mf_issn]
     });
 }
 
 async function crawlPages(startUrl, page) {
     await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 50000 });
     let currUrl = page.url()
-    const contentInfo = await extractInfo(page);
-
+    const contentInfoArray = await extractInfo(page);
+    if (contentInfoArray[1] == ""){
+        console.log(`${contentInfoArray[0]} has no issn`)
+        fs.appendFileSync('journals_with_no_issns.txt', currUrl + '\n');
+    }
+    let contentInfo = contentInfoArray.join(";;")
     fs.appendFileSync('journals_info.txt', contentInfo + '\n');
     console.log(`Info from Page ${currUrl}: ${contentInfo}`);
 }
@@ -40,6 +44,7 @@ async function main() {
         console.log(`Crawling pages for source link: ${sourceLink}`);
         await crawlPages(sourceLink, page);
     }
+    await browser.close();
 }
 
 main();
