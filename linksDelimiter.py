@@ -16,4 +16,4 @@ def divide_links(input_file, output_directory, num_files):
             file.writelines(links[start:end])
 
 # Пример использования
-divide_links('D:/crawling/worldsc/books/no_date_links_books.txt', 'D:/crawling/worldsc/books/', 7)
+divide_links('worldsc/books/found_links_worldsc_fullbooks.txt', 'D:/crawling/worldsc/fullbooks/', 7)
