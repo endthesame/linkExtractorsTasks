@@ -63,7 +63,7 @@ async function crawlPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1200, height: 800 });
 
