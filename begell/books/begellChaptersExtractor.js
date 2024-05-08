@@ -6,7 +6,11 @@ async function extractLinks(page) {
         let rawChaptersLinks =  Array.from(document.querySelectorAll('.article-list-item-title'))
             .map(link => link.href);
         let uniqueLinks = [...new Set(rawChaptersLinks)];
-        return uniqueLinks;
+        let rawChaptersLinksRef = Array.from(document.querySelectorAll('.article-list-item'))
+            .map(link => link.href);
+        let uniqueLinksRef = [...new Set(rawChaptersLinksRef)];
+        let arrLinks = [...uniqueLinks, ...uniqueLinksRef]
+        return arrLinks;
     });
 }
 
@@ -17,13 +21,13 @@ async function crawlPages(startUrl, page) {
 
     const contentLinks = await extractLinks(page);
 
-    fs.appendFileSync('found_links_begell_chapters.txt', contentLinks.join('\n') + '\n');
-    console.log(`Links from Page ${startUrl} have been saved to found_links.txt!`);
+    fs.appendFileSync('found_links_not_crawled_begell_chapters.txt', contentLinks.join('\n') + '\n');
+    console.log(`Links from Page ${startUrl} : ${contentLinks.length} links`);
 
 }
 
 async function main() {
-    const sourceLinksPath = 'fullbooks.txt';
+    const sourceLinksPath = 'links_to_crawl_chapters_thatnotcrawled.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
 
     const browser = await puppeteer.launch({ headless:'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });

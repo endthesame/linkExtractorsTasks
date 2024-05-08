@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'IEEE/journals/found_links_IEEE_articles.txt';
-const outputFile = 'IEEE/journals/found_links_IEEE_articles.txt';
+const inputFile = 'begell/books/found_links_not_crawled_begell_chapters.txt';
+const outputFile = 'begell/books/found_links_not_crawled_begell_chapters.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
