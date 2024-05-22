@@ -1,5 +1,9 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const StealhPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
+
+
+puppeteer.use(StealhPlugin());
 
 async function extractLinks(page) {
     return await page.evaluate(() => {
@@ -25,7 +29,7 @@ async function crawlPages(startUrl) {
       });
     await page.goto(startUrl, { waitUntil: 'domcontentloaded', timeout: 50000 });
 
-    await page.waitForTimeout(35000);
+    await new Promise(resolve => setTimeout(resolve, 25000));
 
     try{
         await page.click('#latestVolumeIssues', { waitUntil: 'networkidle2' });
@@ -43,7 +47,7 @@ async function crawlPages(startUrl) {
         // }
         var currentPageUrl = page.url();
         fs.appendFileSync('found_links_iop_journals.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPageUrl} have been saved to found_links.txt!`);
+        console.log(`Links from Page ${currentPageUrl} have been saved! Total links: ${contentLinks.length}`);
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.mr-1');
@@ -54,14 +58,14 @@ async function crawlPages(startUrl) {
         // Кликаем на кнопку paging__btn--next
         try {
             // Попытка клика на кнопку paging__btn--next
-            await page.click('.mr-1', { waitUntil: 'domcontentloaded' });
+            await page.click('.mr-1', { waitUntil: 'networkidle2' });
         } catch (error) {
             console.log(`Failed to click the next page button. Error: ${error.message}`);
             break; // если не удалось кликнуть, выход из цикла
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForTimeout(4000);
+        //await page.waitForTimeout(4000);
 
         currentPage++;
     }

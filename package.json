@@ -7,6 +7,7 @@
     "puppeteer": "^21.3.5",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "user-agents": "^1.1.22"
+    "user-agents": "^1.1.22",
+    "xml2js": "^0.6.2"
   }
 }
