@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'begell/books/found_links_not_crawled_begell_chapters.txt';
-const outputFile = 'begell/books/found_links_not_crawled_begell_chapters.txt';
+const inputFile = 'iop/journals_sitemap/article_links.txt';
+const outputFile = 'iop/journals_sitemap/article_links.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
