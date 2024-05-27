@@ -1,8 +1,13 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
+<<<<<<< HEAD
 const inputFile = 'iop/journals_sitemap/article_links.txt';
 const outputFile = 'iop/journals_sitemap/article_links.txt';
+=======
+const inputFile = 'iop/books/links_to_books.txt';
+const outputFile = 'iop/books/links_to_books.txt';
+>>>>>>> 32bb8c6 (ieee task)
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
