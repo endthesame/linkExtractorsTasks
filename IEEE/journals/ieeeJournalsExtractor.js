@@ -82,9 +82,11 @@ async function choosePage(page, issue_button, volume_button) {
     let links = [];
     if (issue_button) {
         await issue_button.click({ waitUntil: 'networkidle2', timeout: 80000 });
+        await page.waitForTimeout(1000);
         links = [...links, ...await extractIssueLinks(page)];
     } else if (volume_button) {
         await volume_button.click({ waitUntil: 'networkidle2', timeout: 80000 });
+        await page.waitForTimeout(1000);
         links = [...links, ...await extractVolumeLinks(page)];
     } else {
         logToFile("NO PAGINATION BUTTON");
@@ -95,10 +97,10 @@ async function choosePage(page, issue_button, volume_button) {
 async function crawlPages(startUrl, page) {
     await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 80000 });
     let currUrl = page.url();
-
+    await page.waitForTimeout(1000);
     const all_issue_button = await page.$('.stats-jhp-AllIssues');
     const all_volume_button = await page.$('.stats-jhp-AllVolumes');
-
+    await page.waitForTimeout(1000);
     let rawLinks = await choosePage(page, all_issue_button, all_volume_button);
 
     const contentLinks = Array.from(new Set([...rawLinks]));
@@ -106,27 +108,47 @@ async function crawlPages(startUrl, page) {
     logToFile(`Links from Page ${currUrl}; links length: ${contentLinks.length}`);
 }
 
+async function getArticleCount(page) {
+    return await page.evaluate(() => {
+        return document.querySelector('span.strong:nth-child(2)')? document.querySelector('span.strong:nth-child(2)').innerText.trim() : "";
+})};
+
 async function crawlIssuesPages(startUrl, page) {
     await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 80000 });
-    let links_count = await getDecadeArr(page);
+    let links_count = await getArticleCount(page);
     logToFile(`links_count: ${links_count.length}`);
     if (links_count.length > 5) {
         logToFile(`links_count > 5: ${links_count.length}`);
         return;
     }
     while (true) {
-        await page.waitForSelector('.text-md-md-lh');
+        let currUrl = page.url();
+        try {
+            await page.waitForSelector('.text-md-md-lh');
+        } catch (error){
+            try {
+                await page.goto(currUrl, { waitUntil: 'networkidle2', timeout: 80000 });
+                await page.waitForSelector('.text-md-md-lh');
+            } catch (error) {
+                logToFile(`PAGE NOT LOADED`);
+            }
+        }
         var rawLinks = await extractLinks(page);
         const contentLinks = Array.from(new Set([...rawLinks]));
-        if (contentLinks.length < 1) {
+        if (contentLinks.length < 1 && !await page.$(".col .List-results-items")) {
             await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 80000 });
         }
-        let currUrl = page.url();
         fs.appendFileSync('found_links_IEEE_articles.txt', contentLinks.join('\n') + '\n');
         logToFile(`Links from Page ${currUrl}; links length: ${contentLinks.length}`);
         try {
-            await page.waitForSelector('.col .pagination-bar');
-            await page.click('.next-btn button', { waitUntil: 'networkidle2', timeout: 80000 });
+            if (await page.$(".col .pagination-bar")){
+                await page.waitForSelector('.col .pagination-bar');
+                await page.click('.next-btn button', { waitUntil: 'networkidle2', timeout: 80000 });
+            }
+            else {
+                logToFile(`NO PAGINATION`);
+                break;
+            }
         } catch (error) {
             logToFile(`Failed to click the next page button. Error: ${error.message}`);
             break;
@@ -137,7 +159,7 @@ async function crawlIssuesPages(startUrl, page) {
 async function main() {
     const sourceLinksPath = 'links_to_crawl.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
-    const browser = await puppeteer.launch({ headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setViewport({ width: 1920, height: 1080 });
 
