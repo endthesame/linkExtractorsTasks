@@ -157,6 +157,7 @@ async function crawlIssuesPages(startUrl, page) {
 }
 
 async function main() {
+    logToFile("CRAWLING JOURNALS BEGIN:\n");
     const sourceLinksPath = 'links_to_crawl.txt';
     const sourceLinks = fs.readFileSync(sourceLinksPath, 'utf-8').split('\n').filter(Boolean);
     const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });

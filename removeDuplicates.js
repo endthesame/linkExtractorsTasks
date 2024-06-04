@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Чтение файла с ссылками
-const inputFile = 'sage/journals/journals_links.txt';
-const outputFile = 'sage/journals/journals_links.txt';
+const inputFile = 'IEEE/journals/extracted_links.txt';
+const outputFile = 'IEEE/journals/extracted_links.txt';
 
 fs.readFile(inputFile, 'utf8', (err, data) => {
     if (err) {
