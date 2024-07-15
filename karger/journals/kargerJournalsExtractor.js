@@ -13,27 +13,27 @@ async function extractLinks(page) {
 }
 
 async function crawlPages(startUrl, page) {
-    await page.goto(startUrl, { waitUntil: 'domcontentloaded', timeout: 50000 });
+    await page.goto(startUrl, { waitUntil: 'networkidle2', timeout: 50000 });
 
     await page.waitForTimeout(10000);
 
     try{
-        await page.click('.cmpboxbtn', { waitUntil: 'domcontentloaded', timeout: 50000 });
+        await page.click('.cmpboxbtn', { waitUntil: 'networkidle2', timeout: 50000 });
         console.log("cookie accept");
         await page.waitForTimeout(2000);
     } catch(error) {
         console.log("cookie no need to accept");
     }
 
-    let currentPage = 6161;
+    let currentPage = 229;
 
-    for(currentPage; currentPage < 19448; currentPage++) {
+    for(currentPage; currentPage < 19530; currentPage++) {
         let currentUrl = await page.url();
         //await page.goto(`https://karger.com/search-results?q=*&f_ContentType=Book+Chapter&fl_SiteID=1&page=${currentPage}`, { waitUntil: 'networkidle2', timeout: 120000 })
         var rawLinks = await extractLinks(page);
         const contentLinks = Array.from(new Set([...rawLinks]));
 
-        fs.appendFileSync('found_links_karger_journals.txt', contentLinks.join('\n') + '\n');
+        fs.appendFileSync('found_links_karger_journals2.txt', contentLinks.join('\n') + '\n');
         console.log(`Current Page ${currentUrl}`);
         console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
 
@@ -46,7 +46,7 @@ async function crawlPages(startUrl, page) {
         }
 
         // Ждем загрузки нового контента (возможно, потребуется настройка времени ожидания)
-        await page.waitForTimeout(4000);
+        await page.waitForTimeout(6000);
         //await page.waitForSelector('.pagination-bottom-outer-wrap');
 
     }
