@@ -80,7 +80,7 @@ https://www.mattech-journal.org/articles/mattech/abs/2023/05/contents/contents.h
 https://www.mechanics-industry.org/articles/meca/abs/2024/01/contents/contents.html
 https://www.medecine-nutrition.org/articles/mnut/abs/2013/04/contents/contents.html
 https://www.medecinesciences.org/en/articles/medsci/abs/2024/01/contents/contents.html
-https://www.metallurgical-research.org/articles/metal/abs/2024/01/contents/contents.html
+https://www.metallurgical-research.org/articles/metal/abs/2024/05/contents/contents.html
 https://mmm.edpsciences.org/articles/mmm/abs/1997/06/contents/contents.html
 https://www.mov-sport-sciences.org/articles/sm/abs/2024/01/contents/contents.html
 https://www.nso-journal.org/articles/nso/abs/2024/01/contents/contents.html
@@ -97,7 +97,7 @@ https://www.perspectives-psy.org/articles/ppsy/abs/2023/04/contents/contents.htm
 https://www.photoniques.com/en/articles/photon/abs/2023/06/contents/contents.html
 https://www.psycho-clinique.org/articles/psyc/abs/2023/02/contents/contents.html
 https://www.quadrature-journal.org/articles/quadrature/abs/2010/03/contents/contents.html
-https://www.radioprotection.org/articles/radiopro/abs/2023/04/contents/contents.html
+https://www.radioprotection.org/articles/radiopro/abs/2024/02/contents/contents.html
 https://www.rairo-ro.org/articles/ro/abs/2024/01/contents/contents.html
 https://www.rairo-ita.org/articles/ita/abs/2024/01/contents/contents.html
 https://www.refletsdelaphysique.fr/articles/refdp/abs/2024/01/contents/contents.html

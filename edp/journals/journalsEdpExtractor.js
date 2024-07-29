@@ -27,9 +27,9 @@ async function crawlPages(startUrl) {
     while (true) {
         await page.waitForSelector("#toc");
         const contentLinks = await extractLinks(page);
-
-        fs.appendFileSync('found_links_edp_journals.txt', contentLinks.join('\n') + '\n');
-        console.log(`Links from Page ${currentPage} have been saved to found_links.txt!`);
+        let currUrl = page.url();
+        fs.appendFileSync('radio_and_metall_links.txt', contentLinks.join('\n') + '\n');
+        console.log(`Links from Page ${currUrl}; links length: ${contentLinks.length}`);
 
         // Проверяем наличие кнопки paging__btn--next
         const nextPageButton = await page.$('.toc-nav-back a');
