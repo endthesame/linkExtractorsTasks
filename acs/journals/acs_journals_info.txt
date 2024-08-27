@@ -1,0 +1,92 @@
+ACS Applied Electronic Materials;;;;2637-6113
+ACS Applied Energy Materials;;;;2574-0962
+ACS Applied Engineering Materials;;;;2771-9545
+ACS Applied Materials & Interfaces;;1944-8244;;1944-8252
+ACS Applied Nano Materials;;;;2574-0970
+ACS Applied Optical Materials;;;;2771-9855
+ACS Applied Polymer Materials;;;;2637-6105
+ACS Agricultural Science & Technology;;;;2692-1952
+ACS Bio & Med Chem Au;;;;2694-2437
+ACS Biomaterials Science & Engineering;;;;2373-9878
+ACS Chemical Biology;;1554-8929;;1554-8937
+ACS Catalysis;;;;2155-5435
+Accounts of Chemical Research;;0001-4842;;1520-4898
+ACS Chemical Health & Safety;;;;1878-0504
+ACS Chemical Neuroscience;;;;1948-7193
+ACS Applied Bio Materials;;;;2576-6422
+ACS Combinatorial Science;;2156-8952;;2156-8944
+ACS Central Science;;2374-7943;;2374-7951
+ACS Omega;;;;2470-1343
+ACS Engineering Au;;;;2694-2488
+ACS Environmental Au;;;;2694-2518
+ACS ES&T Air;;;;2837-1402
+ACS Electrochemistry;;;;
+ACS ES&T Engineering;;;;2690-0645
+ACS Energy Letters;;;;2380-8195
+ACS Earth and Space Chemistry;;;;2472-3452
+ACS ES&T Water;;;;2690-0637
+ACS Food Science & Technology;;;;2692-1944
+ACS Infectious Diseases;;;;2373-8227
+ACS Materials Au;;;;2694-2461
+ACS Measurement Science Au;;;;2694-250X
+ACS Medicinal Chemistry Letters;;;;1948-5875
+ACS Macro Letters;;;;2161-1653
+ACS Materials Letters;;;;2639-4979
+Accounts of Materials Research;;;;2643-6728
+ACS Nanoscience Au;;;;2694-2496
+ACS Nano;;1936-0851;;1936-086X
+Analytical Chemistry;;0003-2700;;1520-6882
+ACS Organic & Inorganic Au;;;;2694-247X
+ACS Polymers Au;;;;2694-2453
+ACS Physical Chemistry Au;;;;2694-2445
+ACS Photonics;;;;2330-4022
+ACS Pharmacology & Translational Science;;;;2575-9108
+Artificial Photosynthesis;;;;2994-0974
+ACS Synthetic Biology;;;;2161-5063
+ACS Sustainable Chemistry & Engineering;;;;2168-0485
+ACS Sensors;;;;2379-3694
+ACS Sustainable Resource Management;;;;2837-1445
+Bioconjugate Chemistry;;1043-1802;;1520-4812
+Biochemistry;;0006-2960;;1520-4995
+Biotechnology Progress;;8756-7938;;1520-6033
+Biomacromolecules;;1525-7797;;1526-4602
+Chem & Bio Engineering;;;;2836-967X
+Chemical & Biomedical Imaging;;;;2832-3637
+Crystal Growth & Design;;1528-7483;;1528-7505
+C&EN Global Enterprise;;;;2474-7408
+Chemical Reviews;;0009-2665;;1520-6890
+Chemistry of Materials;;0897-4756;;1520-5002
+Chemical Research in Toxicology;;0893-228X;;1520-5010
+Environment & Health;;;;2833-8278
+Energy & Fuels;;0887-0624;;1520-5029
+Environmental Science & Technology;;0013-936X;;1520-5851
+Environmental Science & Technology Letters;;;;2328-8930
+Industrial & Engineering Chemistry;;0019-7866;;1541-5724
+Industrial & Engineering Chemistry Research;;0888-5885;;1520-5045
+Inorganic Chemistry;;0020-1669;;1520-510X
+JACS Au;;;;2691-3704
+Journal of the American Chemical Society;;0002-7863;;1520-5126
+Journal of Agricultural and Food Chemistry;;0021-8561;;1520-5118
+Journal of the American Society for Mass Spectrometry;;1044-0305;;1879-1123
+Journal of Chemical & Engineering Data;;0021-9568;;1520-5134
+Journal of Chemical Education;;0021-9584;;1938-1328
+Journal of Chemical Information and Modeling;;1549-9596;;1549-960X
+Journal of Chemical Theory and Computation;;1549-9618;;1549-9626
+Journal of Medicinal Chemistry;;0022-2623;;1520-4804
+Journal of Natural Products;;0163-3864;;1520-6025
+The Journal of Organic Chemistry;;0022-3263;;1520-6904
+The Journal of Physical Chemistry A;;1089-5639;;1520-5215
+The Journal of Physical Chemistry B;;1520-6106;;1520-5207
+The Journal of Physical Chemistry C;;1932-7447;;1932-7455
+The Journal of Physical Chemistry Letters;;;;1948-7185
+Journal of Proteome Research;;1535-3893;;1535-3907
+Langmuir;;0743-7463;;1520-5827
+Macromolecules;;0024-9297;;1520-5835
+Molecular Pharmaceutics;;1543-8384;;1543-8392
+Nano Letters;;1530-6984;;1530-6992
+Organic Process Research & Development;;1083-6160;;1520-586X
+Organometallics;;0276-7333;;1520-6041
+Organic Letters;;1523-7060;;1523-7052
+Precision Chemistry;;;;2771-9316
+Polymer Science & Technology;;;;2997-3279
+SciMeetings;;;;

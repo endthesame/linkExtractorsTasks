@@ -1,0 +1,462 @@
+[
+  {
+    "name": "ACS Applied Electronic Materials",
+    "issn": "",
+    "eissn": "2637-6113"
+  },
+  {
+    "name": "ACS Applied Energy Materials",
+    "issn": "",
+    "eissn": "2574-0962"
+  },
+  {
+    "name": "ACS Applied Engineering Materials",
+    "issn": "",
+    "eissn": "2771-9545"
+  },
+  {
+    "name": "ACS Applied Materials & Interfaces",
+    "issn": "1944-8244",
+    "eissn": "1944-8252"
+  },
+  {
+    "name": "ACS Applied Nano Materials",
+    "issn": "",
+    "eissn": "2574-0970"
+  },
+  {
+    "name": "ACS Applied Optical Materials",
+    "issn": "",
+    "eissn": "2771-9855"
+  },
+  {
+    "name": "ACS Applied Polymer Materials",
+    "issn": "",
+    "eissn": "2637-6105"
+  },
+  {
+    "name": "ACS Agricultural Science & Technology",
+    "issn": "",
+    "eissn": "2692-1952"
+  },
+  {
+    "name": "ACS Bio & Med Chem Au",
+    "issn": "",
+    "eissn": "2694-2437"
+  },
+  {
+    "name": "ACS Biomaterials Science & Engineering",
+    "issn": "",
+    "eissn": "2373-9878"
+  },
+  {
+    "name": "ACS Chemical Biology",
+    "issn": "1554-8929",
+    "eissn": "1554-8937"
+  },
+  {
+    "name": "ACS Catalysis",
+    "issn": "",
+    "eissn": "2155-5435"
+  },
+  {
+    "name": "Accounts of Chemical Research",
+    "issn": "0001-4842",
+    "eissn": "1520-4898"
+  },
+  {
+    "name": "ACS Chemical Health & Safety",
+    "issn": "",
+    "eissn": "1878-0504"
+  },
+  {
+    "name": "ACS Chemical Neuroscience",
+    "issn": "",
+    "eissn": "1948-7193"
+  },
+  {
+    "name": "ACS Applied Bio Materials",
+    "issn": "",
+    "eissn": "2576-6422"
+  },
+  {
+    "name": "ACS Combinatorial Science",
+    "issn": "2156-8952",
+    "eissn": "2156-8944"
+  },
+  {
+    "name": "ACS Central Science",
+    "issn": "2374-7943",
+    "eissn": "2374-7951"
+  },
+  {
+    "name": "ACS Omega",
+    "issn": "",
+    "eissn": "2470-1343"
+  },
+  {
+    "name": "ACS Engineering Au",
+    "issn": "",
+    "eissn": "2694-2488"
+  },
+  {
+    "name": "ACS Environmental Au",
+    "issn": "",
+    "eissn": "2694-2518"
+  },
+  {
+    "name": "ACS ES&T Air",
+    "issn": "",
+    "eissn": "2837-1402"
+  },
+  {
+    "name": "ACS Electrochemistry",
+    "issn": "",
+    "eissn": ""
+  },
+  {
+    "name": "ACS ES&T Engineering",
+    "issn": "",
+    "eissn": "2690-0645"
+  },
+  {
+    "name": "ACS Energy Letters",
+    "issn": "",
+    "eissn": "2380-8195"
+  },
+  {
+    "name": "ACS Earth and Space Chemistry",
+    "issn": "",
+    "eissn": "2472-3452"
+  },
+  {
+    "name": "ACS ES&T Water",
+    "issn": "",
+    "eissn": "2690-0637"
+  },
+  {
+    "name": "ACS Food Science & Technology",
+    "issn": "",
+    "eissn": "2692-1944"
+  },
+  {
+    "name": "ACS Infectious Diseases",
+    "issn": "",
+    "eissn": "2373-8227"
+  },
+  {
+    "name": "ACS Materials Au",
+    "issn": "",
+    "eissn": "2694-2461"
+  },
+  {
+    "name": "ACS Measurement Science Au",
+    "issn": "",
+    "eissn": "2694-250X"
+  },
+  {
+    "name": "ACS Medicinal Chemistry Letters",
+    "issn": "",
+    "eissn": "1948-5875"
+  },
+  {
+    "name": "ACS Macro Letters",
+    "issn": "",
+    "eissn": "2161-1653"
+  },
+  {
+    "name": "ACS Materials Letters",
+    "issn": "",
+    "eissn": "2639-4979"
+  },
+  {
+    "name": "Accounts of Materials Research",
+    "issn": "",
+    "eissn": "2643-6728"
+  },
+  {
+    "name": "ACS Nanoscience Au",
+    "issn": "",
+    "eissn": "2694-2496"
+  },
+  {
+    "name": "ACS Nano",
+    "issn": "1936-0851",
+    "eissn": "1936-086X"
+  },
+  {
+    "name": "Analytical Chemistry",
+    "issn": "0003-2700",
+    "eissn": "1520-6882"
+  },
+  {
+    "name": "ACS Organic & Inorganic Au",
+    "issn": "",
+    "eissn": "2694-247X"
+  },
+  {
+    "name": "ACS Polymers Au",
+    "issn": "",
+    "eissn": "2694-2453"
+  },
+  {
+    "name": "ACS Physical Chemistry Au",
+    "issn": "",
+    "eissn": "2694-2445"
+  },
+  {
+    "name": "ACS Photonics",
+    "issn": "",
+    "eissn": "2330-4022"
+  },
+  {
+    "name": "ACS Pharmacology & Translational Science",
+    "issn": "",
+    "eissn": "2575-9108"
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "issn": "",
+    "eissn": "2994-0974"
+  },
+  {
+    "name": "ACS Synthetic Biology",
+    "issn": "",
+    "eissn": "2161-5063"
+  },
+  {
+    "name": "ACS Sustainable Chemistry & Engineering",
+    "issn": "",
+    "eissn": "2168-0485"
+  },
+  {
+    "name": "ACS Sensors",
+    "issn": "",
+    "eissn": "2379-3694"
+  },
+  {
+    "name": "ACS Sustainable Resource Management",
+    "issn": "",
+    "eissn": "2837-1445"
+  },
+  {
+    "name": "Bioconjugate Chemistry",
+    "issn": "1043-1802",
+    "eissn": "1520-4812"
+  },
+  {
+    "name": "Biochemistry",
+    "issn": "0006-2960",
+    "eissn": "1520-4995"
+  },
+  {
+    "name": "Biotechnology Progress",
+    "issn": "8756-7938",
+    "eissn": "1520-6033"
+  },
+  {
+    "name": "Biomacromolecules",
+    "issn": "1525-7797",
+    "eissn": "1526-4602"
+  },
+  {
+    "name": "Chem & Bio Engineering",
+    "issn": "",
+    "eissn": "2836-967X"
+  },
+  {
+    "name": "Chemical & Biomedical Imaging",
+    "issn": "",
+    "eissn": "2832-3637"
+  },
+  {
+    "name": "Crystal Growth & Design",
+    "issn": "1528-7483",
+    "eissn": "1528-7505"
+  },
+  {
+    "name": "C&EN Global Enterprise",
+    "issn": "",
+    "eissn": "2474-7408"
+  },
+  {
+    "name": "Chemical Reviews",
+    "issn": "0009-2665",
+    "eissn": "1520-6890"
+  },
+  {
+    "name": "Chemistry of Materials",
+    "issn": "0897-4756",
+    "eissn": "1520-5002"
+  },
+  {
+    "name": "Chemical Research in Toxicology",
+    "issn": "0893-228X",
+    "eissn": "1520-5010"
+  },
+  {
+    "name": "Environment & Health",
+    "issn": "",
+    "eissn": "2833-8278"
+  },
+  {
+    "name": "Energy & Fuels",
+    "issn": "0887-0624",
+    "eissn": "1520-5029"
+  },
+  {
+    "name": "Environmental Science & Technology",
+    "issn": "0013-936X",
+    "eissn": "1520-5851"
+  },
+  {
+    "name": "Environmental Science & Technology Letters",
+    "issn": "",
+    "eissn": "2328-8930"
+  },
+  {
+    "name": "Industrial & Engineering Chemistry",
+    "issn": "0019-7866",
+    "eissn": "1541-5724"
+  },
+  {
+    "name": "Industrial & Engineering Chemistry Research",
+    "issn": "0888-5885",
+    "eissn": "1520-5045"
+  },
+  {
+    "name": "Inorganic Chemistry",
+    "issn": "0020-1669",
+    "eissn": "1520-510X"
+  },
+  {
+    "name": "JACS Au",
+    "issn": "",
+    "eissn": "2691-3704"
+  },
+  {
+    "name": "Journal of the American Chemical Society",
+    "issn": "0002-7863",
+    "eissn": "1520-5126"
+  },
+  {
+    "name": "Journal of Agricultural and Food Chemistry",
+    "issn": "0021-8561",
+    "eissn": "1520-5118"
+  },
+  {
+    "name": "Journal of the American Society for Mass Spectrometry",
+    "issn": "1044-0305",
+    "eissn": "1879-1123"
+  },
+  {
+    "name": "Journal of Chemical & Engineering Data",
+    "issn": "0021-9568",
+    "eissn": "1520-5134"
+  },
+  {
+    "name": "Journal of Chemical Education",
+    "issn": "0021-9584",
+    "eissn": "1938-1328"
+  },
+  {
+    "name": "Journal of Chemical Information and Modeling",
+    "issn": "1549-9596",
+    "eissn": "1549-960X"
+  },
+  {
+    "name": "Journal of Chemical Theory and Computation",
+    "issn": "1549-9618",
+    "eissn": "1549-9626"
+  },
+  {
+    "name": "Journal of Medicinal Chemistry",
+    "issn": "0022-2623",
+    "eissn": "1520-4804"
+  },
+  {
+    "name": "Journal of Natural Products",
+    "issn": "0163-3864",
+    "eissn": "1520-6025"
+  },
+  {
+    "name": "The Journal of Organic Chemistry",
+    "issn": "0022-3263",
+    "eissn": "1520-6904"
+  },
+  {
+    "name": "The Journal of Physical Chemistry A",
+    "issn": "1089-5639",
+    "eissn": "1520-5215"
+  },
+  {
+    "name": "The Journal of Physical Chemistry B",
+    "issn": "1520-6106",
+    "eissn": "1520-5207"
+  },
+  {
+    "name": "The Journal of Physical Chemistry C",
+    "issn": "1932-7447",
+    "eissn": "1932-7455"
+  },
+  {
+    "name": "The Journal of Physical Chemistry Letters",
+    "issn": "",
+    "eissn": "1948-7185"
+  },
+  {
+    "name": "Journal of Proteome Research",
+    "issn": "1535-3893",
+    "eissn": "1535-3907"
+  },
+  {
+    "name": "Langmuir",
+    "issn": "0743-7463",
+    "eissn": "1520-5827"
+  },
+  {
+    "name": "Macromolecules",
+    "issn": "0024-9297",
+    "eissn": "1520-5835"
+  },
+  {
+    "name": "Molecular Pharmaceutics",
+    "issn": "1543-8384",
+    "eissn": "1543-8392"
+  },
+  {
+    "name": "Nano Letters",
+    "issn": "1530-6984",
+    "eissn": "1530-6992"
+  },
+  {
+    "name": "Organic Process Research & Development",
+    "issn": "1083-6160",
+    "eissn": "1520-586X"
+  },
+  {
+    "name": "Organometallics",
+    "issn": "0276-7333",
+    "eissn": "1520-6041"
+  },
+  {
+    "name": "Organic Letters",
+    "issn": "1523-7060",
+    "eissn": "1523-7052"
+  },
+  {
+    "name": "Precision Chemistry",
+    "issn": "",
+    "eissn": "2771-9316"
+  },
+  {
+    "name": "Polymer Science & Technology",
+    "issn": "",
+    "eissn": "2997-3279"
+  },
+  {
+    "name": "SciMeetings",
+    "issn": "",
+    "eissn": ""
+  }
+]
